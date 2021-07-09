@@ -1,0 +1,556 @@
+Rogan_delta,4,0,ON80,uh can you pull up about that peak in the uh taxiway there and just hold your position
+Rogan_delta,5,0,CH30,You bet [pause]
+Rogan_delta,6,0,ON80,Frontier uh 101 taxi straight ahead now [pause]
+Rogan_delta,7,0,CH30,101 for taxi instructions
+Rogan_delta,8,0,ON80,Okay uh Frontier 101 continue to taxi and uh once you get on the ramp area uh stand by one
+Rogan_delta,9,0,CH30,Okay were rolling again [pause]
+Rogan_delta,10,0,PN60,Ground control to 101
+Rogan_delta,11,0,CH30,101
+Rogan_delta,12,0,PN60,This is <PN60> I understand you have a problem aboard Im here to see if I can help
+Rogan_delta,13,0,CH30,Okay We sure do and uh
+Rogan_delta,14,0,HT01,FBI
+Rogan_delta,15,0,CH30,You the FBI
+Rogan_delta,16,0,PN60,Thats affirmative
+Rogan_delta,17,0,CH30,Okay At the present time were all alone in the cockpit seat Tell us whatever you want to
+Rogan_delta,18,0,PN60,10 4 Whats the situation there now
+Rogan_delta,19,0,CH30,Well weve landed and taxied up here and we havent seen anything [pause] Stand by
+Rogan_delta,20,0,ON80,Frontier uh 101 if able stop squawk
+Rogan_delta,21,0,CH30,Okay [pause] O1 we got the uh gentleman up here if anybody wants to talk to him You wanna talk to any of em
+Rogan_delta,22,0,PN60,Ground control this is <PN60> to the 101 flight Uh what are your problems
+Rogan_delta,23,0,CH30,Well theres a man here with a gun and he wants uh previous demands that were stated up there in Kansas City to be met
+Rogan_delta,24,0,PN60,Will he talk with us
+Rogan_delta,25,0,CH30,Yeah hes listening
+Rogan_delta,26,0,PN60,Uh ask him to repeat the demands to us please
+Rogan_delta,27,0,CH30,Okay uh this is the co pilot He told us before and the demands were this He wants uh a guy named <Prisoner_Name> released Hes in the Portland County Jail and uh
+Rogan_delta,28,0,PN60,101 could you put the individual making these requests on please [pause]
+Rogan_delta,29,0,CH30,He said [pause] Yeah he says he has nothing to say at this time
+Rogan_delta,30,0,PN60,Uh need to talk about these demands
+Rogan_delta,31,0,CH30,Well okay hes hes listening
+Rogan_delta,32,0,PN60,Continue to repeat the demands
+Rogan_delta,33,0,CH30,Okay you got the uh <Prisoner_Name> in the Portland County Jail [pause] The uh 3 000 000 00 in 20s 50s and 100s two parachutes two machine guns and ammunition and two 45 caliber pistols
+Rogan_delta,34,7,PN60,Do you realize that all of this has to be cleared through the FAA in Washington the Department of Justice in Washington and a number of other agencies local and federal before any action can be taken
+Rogan_delta,35,0,CH30,he said well you better get on it
+Rogan_delta,36,0,PN60,10 4 Uh cause I you have two stewardesses on the plane now
+Rogan_delta,37,0,CH30,Affirmative
+Rogan_delta,38,0,PN60,Uh is there any way we could get those girls off [pause]
+Rogan_delta,39,0,CH30,Uh he said negative
+Rogan_delta,40,0,PN60,Is your individual there in need of anything Is he okay
+Rogan_delta,41,0,CH30,He says hes okay and doesnt need anything [pause] Oh he he needed you got the uh request for those hamburgers for everybody didnt you Wendys hamburgers
+Rogan_delta,42,0,PN60,Negative on that Will you repeat that
+Rogan_delta,43,0,CH30,Uh he said he wanted some uh Wendys hamburgers to be boarded enough for everybody
+Rogan_delta,44,0,PN60,Ask him to make that request in person please
+Rogan_delta,45,0,CH31,Uh this is Captain <CAPT_LAST_NAME> Uh uh we would like to confirm that the uh FBI contacted you from Kansas City We spent an hour or so in Kansas City and these requests and have been made uh back then Uh have you uh been in contact with the FBI in Kansas City
+Rogan_delta,46,0,PN60,4 We have uh discussed some of the problems but we dont know the full extent of the problem and were trying to ascertain it now so we can get necessary paperwork going to get the clearances needed
+Rogan_delta,47,0,CH31,The um um the the man on board uh is the boss and uh in order to keep everybody uh healthy well we are uh going to meet his demands requests
+Rogan_delta,48,5,PN60,Wed sure like to talk to the boss
+Rogan_delta,49,0,CH31,Im the boss right now uh as far as the airplane is concerned and uh you can relay through us And hes standing right here
+Rogan_delta,50,0,PN60,Will he take the <HT01_First_Name> and talk with me [pause]
+Rogan_delta,51,0,CH31,Whats your name
+Rogan_delta,52,0,PN60,<PN60>
+Rogan_delta,53,0,CH31,Okay Mr <PN60_Last_Name> uh in just a second here uh hell be able to talk with you [pause] This mans name is <HT01> Uh he cant hear me right now
+Rogan_delta,54,0,PN60,10 4 [pause] you still read us
+Rogan_delta,55,0,CH31,10 4 Read you loud and clear
+Rogan_delta,56,5,PN60,Okay now you now you can read okay [pause] Uh the boss there <HT01_First_Name> uh this is <PN60> Uh you made a request for some hamburgers
+Rogan_delta,57,0,HT01,Yes sir
+Rogan_delta,58,0,PN60,Uh I didnt get that request Uh could you repeat it for us please [pause]
+Rogan_delta,59,0,HT01,Enough hamburgers for everyone on board
+Rogan_delta,60,0,PN60,How many people are on board [pause]
+Rogan_delta,61,0,HT01,Sixteen
+Rogan_delta,62,0,PN60,Are you okay Everything going well
+Rogan_delta,63,0,HT01,So far
+Rogan_delta,64,0,PN60,Okay Everybody else on the plane all right
+Rogan_delta,65,0,HT01,Seem to be
+Rogan_delta,66,0,PN60,10 4 What do you want on those hamburgers
+Rogan_delta,67,0,HT01,Everything
+Rogan_delta,68,0,PN60,There anything else you want [pause] <HT01_First_Name> you uh need anything else foodwise
+Rogan_delta,69,0,CH30,this is the co pilot He said that he wants me to talk with hamburgers for everybody with everything on it and of milkshakes too I think everybodyd go for that And fries for everybody
+Rogan_delta,70,1,PN60,Id like to talk to <HT01_First_Name> there I need to talk to <HT01_First_Name> cause we need to talk about these problems were having We need to uh be able to communicate together
+Rogan_delta,71,0,HT01,What was your name sir
+Rogan_delta,72,0,PN60,<PN60>
+Rogan_delta,73,0,HT01,What is happening with uh Mr <Prisoner_Last_Name>
+Rogan_delta,74,0,PN60,Uh lets get the food order squared away here
+Rogan_delta,75,0,HT01,I want him to bring the food to the plane
+Rogan_delta,76,7,PN60,Itll take quite awhile because we have to go through numerous agencies in government to get any kind of clearance along those lines at all and its almost impossible to do that
+Rogan_delta,77,0,HT01,I dont like that game youre playing
+Rogan_delta,78,1,PN60,Its not a game were playing Its just that we we have to go through all the uh agencies and and what not It takes time We cant do it right now but itll take time
+Rogan_delta,79,0,HT01,How much time you talking about
+Rogan_delta,80,3,PN60,We dont know but uh lets get the food order squared away How bout if you let the stewardess off uh to get the food and uh she and then well let somebody bring the food up to the plane
+Rogan_delta,81,0,HT01,the food uh til Mr <Prisoner_Last_Name> gets here
+Rogan_delta,82,0,PN60,want the food until <Prisoner_Last_Name> gets there
+Rogan_delta,83,0,HT01,Should be able to bring him and the food real shortly
+Rogan_delta,84,0,PN60,Were working on the food right now Uh
+Rogan_delta,85,0,HT01,I dont know whether or not he wants to come here or not I just wanna talk to him
+Rogan_delta,86,1,PN60,question Hes got to uh wanna come We couldnt force him if he didnt want to [pause] Were contacting him now in an effort to see what his feelings are Still with me <HT01_First_Name>
+Rogan_delta,87,0,HT01,Yeah Im still here
+Rogan_delta,88,3,PN60,Tell you what Why dont we get the food into you and you let the two stewardesses go and we will uh continue things from there Hows that
+Rogan_delta,89,0,HT01,Stewardesses stay
+Rogan_delta,90,3,PN60,<HT01_First_Name> its gonna take some time uh to get uh <Prisoner_Last_Name> lined up but uh can you bear with us a little while [pause] <HT01_First_Name> you still with me
+Rogan_delta,91,0,HT01,Yes sir Im still with you
+Rogan_delta,92,0,PN60,Okay uh were gonna what do you want one hamburger per person or two or what
+Rogan_delta,93,0,HT01,Why dont you make it two
+Rogan_delta,94,0,PN60,You want a double or a single
+Rogan_delta,95,0,HT01,Double
+Rogan_delta,96,0,PN60,With cheese
+Rogan_delta,97,0,HT01,Cheese
+Rogan_delta,98,0,PN60,Okay What flavor shakes do you want
+Rogan_delta,99,0,HT01,Chocolate will be fine
+Rogan_delta,100,0,PN60,Okay Now were gonna get em and bring em to the plane How do you want em [pause] <HT01_First_Name> how are you gonna receive these uh this food
+Rogan_delta,101,0,HT01,Well thats a good question Thats why I thought uh uh Mr <Prisoner_Last_Name> could bring the food up here Be the easiest
+Rogan_delta,102,7,PN60,Well I can check with the boss to see if hell approve of this and get back with you in a few minutes
+Rogan_delta,103,0,HT01,
+Rogan_delta,104,0,PN60,101 <HT01_First_Name> [pause]
+Rogan_delta,105,0,CH30,Stand by one
+Rogan_delta,106,0,HT01,Yes sir
+Rogan_delta,107,0,PN60,You with me <HT01_First_Name>
+Rogan_delta,108,0,HT01,Yes sir
+Rogan_delta,109,0,PN60,Okay now how we gonna get the hamburgers out to the plane
+Rogan_delta,110,3,HT01,As soon as you get uh Mr <Prisoner_Last_Name> and bring him out here and he can bring the hamburgers up to the plane and Ill speak with him and see how he feels about uh the situation and go from there
+Rogan_delta,111,1,PN60,Well were going to get the hamburgers now but we <PN60_First_Name> t know how were gonna get em out there cause <Prisoner_Last_Name> isnt available right now
+Rogan_delta,112,0,HT01,Well thats uh I asked about that from Kansas City and uh Ive youre delaying it
+Rogan_delta,113,0,PN60,Uh well walk em out to the plane but uh youre gonna have to figure someway of gettin em inside All right with you <HT01_First_Name>
+Rogan_delta,114,0,HT01,It shouldnt take more than a half hour to get <Prisoner_Last_Name> out here All tha all thats necessary is a little transportation [pause] not buying that paperwork
+Rogan_delta,115,0,PN60,Well well get the hamburgers Let me get that order in now and uh get the motion started on that
+Rogan_delta,116,0,PN60,to <HT01_First_Name>
+Rogan_delta,117,0,HT01,Go ahead
+Rogan_delta,118,7,PN60,I forwarded your request to the boss whos gonna let me know uh my boss what when and if uh your demand will be met as far as the hamburgers are concerned [radio_conversation_in_background]
+Rogan_delta,119,0,CH30,okay Were just standing by for instructions
+Rogan_delta,120,0,PN60,see what what Mr <Prisoner_Last_Name> has to say <HT01_First_Name> and uh see if he will uh talk to you
+Rogan_delta,121,0,HT01,Okay you got it
+Rogan_delta,122,0,CH30,Uh you know all along here on 11835 still
+Rogan_delta,123,0,PN60,Okay <HT01_First_Name> there
+Rogan_delta,124,0,CH30,Yeah here he comes
+Rogan_delta,125,0,PN60,Okay Id like to talk to <HT01_First_Name>
+Rogan_delta,126,0,HT01,Yes sir
+Rogan_delta,127,0,PN60,Anybody want any coffee on that order
+Rogan_delta,128,0,HT01,Yeah go ahead well take coffee too You bet
+Rogan_delta,129,0,PN60,10 4 uh got some official things here that we have to iron out uh <HT01_First_Name> Uh what is your relationship with <Prisoner_Last_Name> [pause] Are you a relative
+Rogan_delta,130,0,HT01,second cousin
+Rogan_delta,131,0,PN60,Do you think hes gonna wanna come with you
+Rogan_delta,132,0,HT01,I just want to see the man and talk to him Thats his decision
+Rogan_delta,133,0,PN60,What happens if he doesnt wanna talk to you
+Rogan_delta,134,3,HT01,Well then well go from there [pause] at least wanna talk to me I figure you can bring him out here and uh [pause] let me see him and let me talk with him and uh his decision decision from there on whether he wants to come along or not
+Rogan_delta,135,1,PN60,Were working on it but were concerned for the safety of everybody involved here and we wed like to have some assurances of safety for our people out there
+Rogan_delta,136,3,HT01,Well as long as my demands are met then uh your assurances are all right [pause]
+Rogan_delta,137,7,PN60,Were trying on that <HT01_First_Name> but its a long hard uh chore to get all this through [pause] Uh one of the judges wants to know why are you doing this [pause] me <HT01_First_Name>
+Rogan_delta,138,0,HT01,Sir Im still here
+Rogan_delta,139,7,PN60,Uh one of the officials wants to know why youre doing this
+Rogan_delta,140,0,HT01,Im empty [pause]
+Rogan_delta,141,0,PN60,In what way is that [pause]
+Rogan_delta,142,0,HT01,This isnt the time and the place to talk about that 10 4
+Rogan_delta,143,0,PN60,Okay were getting the hamburgers now How do you want em delivered [pause]
+Rogan_delta,144,0,HT01,Uh bring a vehicle out and Ill have one of the stewar stewardesses come out and pick it up and bring it back on board
+Rogan_delta,145,2,PN60,Okay weve ordered em and we got a car enroute to pick em up now but how about uh doing us a favor now that weve don you a favor and let those two girls go [pause] That sounds fair enough to you doesnt it <HT01_First_Name> You still with me <HT01_First_Name> [pause] <HT01_First_Name> you got enough people out there without the two girls Lets get the girls out of the way idea sound fair enough to you You still there <HT01_First_Name>
+Rogan_delta,146,1,HT01,Those girls are needed
+Rogan_delta,147,0,PN60,Both of em
+Rogan_delta,148,0,HT01,Yes sir
+Rogan_delta,149,1,PN60,How are they needed You got uh other people there that you control [pause] We gotta talk to a lot of people and they want to know how youre cooperating what what the story is and theyre concerned for the safety of the people out there
+Rogan_delta,150,0,HT01,So am I
+Rogan_delta,151,1,PN60,And theyre concerned for your safety also and they just theyre interested in in Mr <Prisoner_Last_Name> s safety also and
+Rogan_delta,152,1,HT01,Well I set forth some uh simple demands and if theyre met then everyone will be just fine and dandy But if youre gonna play games with me then things are gonna come down to uh something
+Rogan_delta,153,1,PN60,Were not playing games <HT01_First_Name> Were were trying to help everybody Were just trying to help you as well as the people on the plane Were not playing games with anybody dont believe me
+Rogan_delta,154,0,PN60,cigarettes on the plane <HT01_First_Name> [pause] You still there <HT01_First_Name>
+Rogan_delta,155,0,HT01,Yes Im still here
+Rogan_delta,156,3,PN60,sound fair enough to you that uh that the girls should get out of the way [pause]
+Rogan_delta,157,0,HT01,Theyll be all right
+Rogan_delta,158,0,PN60,Uh how bout cigarettes You want any cigarettes
+Rogan_delta,159,0,HT01,can bring some cigarettes
+Rogan_delta,160,3,PN60,10 4 Well try to get it out to you and were gonna bring it out a good faith uh act on your part uh and then theyre gonna then theyll be in a better position to evaluate uh your demands
+Rogan_delta,161,0,HT01,already show em my good faith act and uh [pause] go from there
+Rogan_delta,162,1,PN60,<HT01_First_Name> youve been at the university for a number of years You know uh educate You know what the what the story is When people start making decisions you gotta be reasonable in the matter Were trying to be reasonable with you Were interested in your safety and the safety of everybody concerned Trying to help you and help the people and and get this matter cleared up without anybody getting hurt
+Rogan_delta,163,0,HT01,10 4
+Rogan_delta,164,7,PN60,Uh so Im in a position that I gotta tell the boss give you give him an answer as to whether uh youre going to consider letting the girls go How do we know that the person delivering the foods going to be safe [pause] be assured the person bringing the food out to the plane is safe
+Rogan_delta,165,0,HT01,You arent I guess
+Rogan_delta,166,0,PN60,No were not and uh we need some sort of an assurance on that
+Rogan_delta,167,0,HT01,the person bringing the food out will be safe
+Rogan_delta,168,0,PN60,Well well worry about that when we get to that position there How are the who are the Corn Huskers playing uh Saturday
+Rogan_delta,169,0,HT01,Colorado
+Rogan_delta,170,0,PN60,Thats a real tough school Did you go in Lincoln
+Rogan_delta,171,0,CH30,He walked in the back now
+Rogan_delta,172,0,PN60,Hows he seem
+Rogan_delta,173,0,CH30,Oh he seems calm Hes looking out the back of the airplane towards the back Hes in the back looking in the back galley
+Rogan_delta,174,0,PN60,10 4 Wed like to keep him talking on the uh radio as much as possible and if we ask a question wed like to have him answer it if possible
+Rogan_delta,175,0,CH30,Okay Well well put him back on when he comes back up here
+Rogan_delta,176,0,PN60,10 4 Is he still armed [pause]
+Rogan_delta,177,0,CH30,Affirmative
+Rogan_delta,178,0,PN60,Okay were working on the food angle now We would like to get the girls out if possible
+Rogan_delta,179,0,HT01,Need the girls here to uh do stewardess work
+Rogan_delta,180,8,PN60,Okay Uh I hear you <HT01_First_Name> I hear you on that and uh but uh I always kinda like to feel women are a little something special and I like to keep em out of uh situations like this They get a little nervous
+Rogan_delta,181,0,HT01,Theyre fine
+Rogan_delta,182,0,PN60,The guy up to the food shop hes ordering it now It was right in the middle of lunch hour so they had to uh stop things and get the order together but youll have it have it in a little while [pause] <HT01_First_Name> you there <HT01_First_Name> you still with me
+Rogan_delta,183,0,CH32,This is one of the flight attendants and I have a little girl thats uh four years old and shes in nursery school and I was just wondering if someone could be sure and contact so that shell be okay
+Rogan_delta,184,0,PN60,10 4 Give me the name of the nursery school
+Rogan_delta,185,0,CH32,The nursery school is called uh <Nursery_School_Name> Its in Denver
+Rogan_delta,186,0,PN60,Now would you have the phone number on it
+Rogan_delta,187,0,CH32,Uh no I dont
+Rogan_delta,188,0,PN60,And what is your name
+Rogan_delta,189,0,CH32,<CH32> <Spells_last_name>
+Rogan_delta,190,0,PN60,And whats your little girls name <CH32_First_Name>
+Rogan_delta,191,0,CH32,que
+Rogan_delta,192,0,PN60,Whats your little girls name <CH32_First_Name>
+Rogan_delta,193,0,CH32,<CH32s_childs_first_name> <spells_name>
+Rogan_delta,194,0,PN60,10 4 Well get somebody to call Denver and make sure their uh call the center
+Rogan_delta,195,0,CH32,Thank you
+Rogan_delta,196,0,PN60,control to <HT01_First_Name>
+Rogan_delta,197,0,HTO1,Hello
+Rogan_delta,198,0,PN60,Were were trying to get things together here We got the uh fellow from the hamburger place He should have em down to you in a few minutes so just relax Everythings all right
+Rogan_delta,199,0,PN60,trol to <HT01_First_Name>
+Rogan_delta,200,0,HTO1,10 4
+Rogan_delta,201,0,PN60,Uh you hear <CH32_First_Name> talking about her little girl
+Rogan_delta,202,0,HTO1,Yes sir
+Rogan_delta,203,1,PN60,dont you think <CH32_First_Name> should make that call herself
+Rogan_delta,204,0,HTO1,Shes fine right now
+Rogan_delta,205,1,PN60,Yeah shes fine but the little girl may be a little bit apprehensive if her mother isnt there [pause] Think itd be good if <CH32_First_Name> could call uh herself on the phone Talk with her daughter
+Rogan_delta,206,3,HTO1,Well if you can get Mr <Prisoner_Last_Name> out here then wed be able to talk a little bit
+Rogan_delta,207,0,CH30,Just relaying it all He can hear us from uh his position by the door
+Rogan_delta,208,0,PN60,10 4 Just tell him that we got the hamburgers enroute and they should be here in a little while
+Rogan_delta,209,0,CH30,you
+Rogan_delta,210,3,CH31,Uh this is the captain and <HT01_First_Name> has just uh advised us that uh or the authorities dont do anything foolish he has promised us that he will not do anything foolish
+Rogan_delta,211,0,PN60,101 repeat your transmission please
+Rogan_delta,212,3,CH31,<HT01_First_Name> uh just said to us that uh as long as the authorities do not do anything foolish he will not do anything foolish
+Rogan_delta,213,0,PN60,10 4 We are in that position now that were not uh about to do anything to disturb uh the situation or to do anything that would cause <HT01_First_Name> to do anything
+Rogan_delta,214,0,CH31,He appreciates that and so do we
+Rogan_delta,215,1,PN60,10 4 Uh we appreciate the uh way things are going and we will do what we can and work it out If <HT01_First_Name> s there ask him about uh <CH32> s little girl I think maybe that <CH32_First_Name> should call the little girl direct The child could be very much upset uh about her mother
+Rogan_delta,216,3,HTO1,Soon as I see Mr <Prisoner_Last_Name> then well go from there
+Rogan_delta,217,1,PN60,Uh <HT01_First_Name> were very much concerned for of course everybodys safety and thats what our prime objective is safety and uh work things out from there By everybody I mean you as well as the passengers and crew [pause] Ground control to <HT01_First_Name>
+Rogan_delta,218,0,HT01,Go ahead sir
+Rogan_delta,219,0,PN60,How do you like the weather here in Atlanta Pretty nice isnt it this time of year
+Rogan_delta,220,0,HT01,Yes sir
+Rogan_delta,221,0,PN60,How was the weather out in Omaha
+Rogan_delta,222,0,HT01,It was pleasant
+Rogan_delta,223,0,PN60,I thought it was supposed to be cold out there this time of year Spent some time out in California didnt you <HT01_First_Name> [pause] You with me <HT01_First_Name> [pause] Ground control to 101 Ground control to 101
+Rogan_delta,224,0,CH31,Were here
+Rogan_delta,225,0,PN60,Everything all right
+Rogan_delta,226,0,CH31,Oh yes yeah Hes keeping his promise
+Rogan_delta,227,0,PN60,Good good Well live up to our end of it [pause] Ask him if the weather here is as nice as California
+Rogan_delta,228,0,CH31,Its better
+Rogan_delta,229,0,PN60,I like it [pause]
+Rogan_delta,230,3,CH32,This is <CH32> again Uh <HT01_First_Name> has just told me that if uh <Prisoner_Last_Name> is brought out he will let me uh go
+Rogan_delta,231,0,PN60,10 4 Were the food is enroute We should be there in a little while
+Rogan_delta,232,0,CH32,He says not food <Prisoner_Last_Name>
+Rogan_delta,233,0,PN60,Repeat <CH32_First_Name>
+Rogan_delta,234,3,CH32,Uh hes not saying food Hes saying its <Prisoner_Last_Name> he can talk to him then he will release me
+Rogan_delta,235,0,PN60,10 4 <CH32_First_Name> We hear you on that and of course were were checking on it but its going to take some doing to get <Prisoner_Last_Name> out
+Rogan_delta,236,0,CH32,Okay thank you [pause]
+Rogan_delta,237,0,PN60,Ground control to <CH32_First_Name> [pause]
+Rogan_delta,238,0,CH32,Yes
+Rogan_delta,239,0,PN60,We put the call through to Denver and our Denver office is calling the uh center there
+Rogan_delta,240,0,CH32,Okay thank you
+Rogan_delta,241,0,PN60,Is there someone else that can pick your daughter up uh or something
+Rogan_delta,242,0,CH32,Well my husband was killed in a car accident last year so its just the two of us There are uh relatives that that may be able to to pick her up
+Rogan_delta,243,0,PN60,Can you give me a phone number we can call
+Rogan_delta,244,0,CH32,<num> [pause] Just a minute <num> [pause] Ask for uh Mrs <Female_Last_Name> [spells_female_last_name]
+Rogan_delta,245,0,HT01,if he wants to stay thats his decision and if not then hell leave Thats I just need to talk with someone
+Rogan_delta,246,0,PN60,he decides he doesnt wanna go with you he doesnt want to come out to the airport Whatll we do then
+Rogan_delta,247,0,HT01,I dont see any reason why he wouldnt want to come out to the airport
+Rogan_delta,248,0,PN60,Maybe he thinks things are better off the way they are Maybe he doesnt want to get into uh any more involvement
+Rogan_delta,249,0,HT01,Well hes not He wont be involved if he doesnt want to be involved Ill just speak with him is all
+Rogan_delta,250,0,PN60,Well were asking Im asking you whats going to happen if he says no Are my passengers gonna be hurt
+Rogan_delta,251,0,HTO1,be a decision Ill make in the future uh
+Rogan_delta,252,1,PN60,We gotta know what your decisions are going to be in order to make our decisions I gotta look at the alternatives as as to whats going on what could happen and uh we dont want anybody hurt and uh including you <Prisoner_Last_Name> the crew and the passengers
+Rogan_delta,253,0,HTO1,Thats sound thinking demands are simple
+Rogan_delta,254,2,PN60,I can get you your first demand the food with no problem at all but Im gonna have to have uh something in return for it to show to show good faith upon your part
+Rogan_delta,255,0,HTO1,The food wasnt one of my demands sir It was just uh out of consideration for everyone uh needed some food The demands were number one starts with able to talk with Mr <Prisoner_Last_Name>
+Rogan_delta,256,0,PN60,the matter to the satisfaction of everybody concerned [pause] is coming into the airport in a few minutes and uh would be out there but uh we also have a concern for safety of the people that that are bringing it out Tell me uh what assurance I have that they wont be hurt
+Rogan_delta,257,0,CH31,This is the captain and there wouldnt be any problem there [background_conversation]
+Rogan_delta,258,0,PN60,Ground control to 101
+Rogan_delta,259,0,HTO1,Go ahead
+Rogan_delta,260,0,PN60,Uh <HT01_First_Name> uh the foods in there Theyre uh looking to bring it out to you They uh say its in large bags Theyd just rather have the stewardess come down and pick it up and take back in if you want or bring it to you They dont like the idea of passing it through the window [pause] Do you read <HT01_First_Name> [pause] Ground control to <HT01_First_Name>
+Rogan_delta,261,0,HT01,Yes sir
+Rogan_delta,262,0,PN60,The food is uh ready The people bringing it out dont like the idea of having to get up on a ladder to pass it through the window Uh theyd prefer to have the stewardess come out for it or to uh bring it up to the stewardess at the door
+Rogan_delta,263,0,HTOI,be all right
+Rogan_delta,264,1,PN60,<HT01_First_Name> you got all the trump cards Uh were not gonna do anything Uh just uh uh the girl will come out and pick it up and go right back in Were gonna let her come back We wont interfere with her at all And or would attempt any uh thing funny Were going to do play it straight
+Rogan_delta,265,0,HTO1,Did you hear me
+Rogan_delta,266,0,PN60,Negative on that Repeat
+Rogan_delta,267,0,HTO1,will be just all right
+Rogan_delta,268,0,PN60,10 4 Ill tell em I dont know whether theyll theyll wanna come out that way or not but Ill pass the word to em send a vehicle out Itll pass the plane Theyll pick up the food at the building there bring it back out to the plane [radio_cutting_out]
+Rogan_delta,269,0,CH30,You hear that
+Rogan_delta,270,0,PN60,101 to <HT01_First_Name> Correction ground control to <HT01_First_Name>
+Rogan_delta,271,0,CH30,he can hear
+Rogan_delta,272,3,PN60,Tell <HT01_First_Name> were getting the truck uh the food will be out that uh we would like to have <CH32_First_Name> sent out and well deliver the food
+Rogan_delta,273,0,HTO1,through the window Uh what about my demands
+Rogan_delta,274,7,PN60,Theyre being considered at higher levels I have no control over that but they are being considered [pause] and it would go Wed like to have uh <CH32_First_Name> out uh and uh deliver the food [pause]
+Rogan_delta,275,3,HT01,takes two to tango You cooperate with me and Ill cooperate with you
+Rogan_delta,276,3,PN60,Okay well bring the food out and youll let <CH32_First_Name> go right
+Rogan_delta,277,4,HT01,No I said uh bring Mr <Prisoner_Last_Name> out and Ill let <CH32_First_Name> go
+Rogan_delta,278,1,PN60,Gotta take one step at a time <HT01_First_Name> one step at a time Lets lets go for just one step and then then well well talk about step two
+Rogan_delta,279,0,HT01,We can get along without the food [big_pause]
+Rogan_delta,280,1,PN60,uh force you Were just trying to make this thing as easy on everybody as possible but we do feel that <CH32_First_Name> with her little girl out in Denver you heard her husband was killed in an accident That little child has just one parent and we want to get that girl out of there
+Rogan_delta,281,4,HT01,I understand all that and uh [pause] I feel that [pause] well we talked about this earlier Uh theres no use changing uh changing the story now
+Rogan_delta,282,1,PN60,Come on now we got to change a little bit every day We have to change and and cooperate and show our cooperation Uh before when we talked we didnt know <CH32_First_Name> s husband was deceased We didnt know the little girl only had one parent that she is depending upon and uh the little girl needs her mother and certainly uh we want to help the little girl We want to help you We want to help everybody but right now we feel that thats the prime thing on the whole the whole thing is whether youre gonna cooperate with us in that one little request
+Rogan_delta,283,0,HT01,Well sir I agree and thats more reason why you should uh speed up your processing
+Rogan_delta,284,7,PN60,Well thats thats probably true that we should speed it up but uh government red tape being such as it is we have to go at a Certain pace We cant just flick a switch from on to off It has to go at a certain pace You know that and I know that and uh we are concerned about uh <CH32_First_Name> s little girl primarily Were not I think <CH32_First_Name> s safe but the poor little child uh needs to talk with her mother and needs to be
+Rogan_delta,285,6,HT01,Kansas City and right now Im in a position where to you Im just going to wait and if youre not going to cooperate with me then I things are going to come down to a deadline
+Rogan_delta,286,7,PN60,Were working with you Were trying uh to wor to iron this thing out so everybody comes out of it uh in relatively good shape with nobody getting hurt This is what we want and were trying to work with you Were trying to put your requests to the people that that can make the dec what were interested in
+Rogan_delta,287,0,HT01,cooperating
+Rogan_delta,288,0,PN60,Well you can take one st one little step and and let <CH32_First_Name> go and and uh then then sh then well move on to the next uh request that you have [radio_cutting_out]
+Rogan_delta,289,0,PN60,Go ahead <HT01_First_Name>
+Rogan_delta,290,0,HT01,I said its your step to take not mine
+Rogan_delta,291,1,PN60,Were looking to you to for a good sign of a good gesture on your part Something that will show cooperation on your part to show that uh you earnestly uh mean what you say
+Rogan_delta,292,0,HT01,Well I have probably just as much concern for that young girl as you do and possibly more and that is more of a reason why you should speed things up
+Rogan_delta,293,7,PN60,Im not in a position to speed things up I would if I could but uh I cant move Washington You know Youve been in the army You know the bureaucratic ways that the bureaus up there go through and we have to live with that now Uh I cant control that but you can control the situation that were talking about
+Rogan_delta,294,0,HT01,No Im not in control of the situation As far as the paperwork uh in certain circumstances you wou you know as well as I do that things can be don if the right people tell those people to do it and youre just stalling for time
+Rogan_delta,295,0,PN60,Okay the truck should be ready I think I see it pulling up over there now to load the food It should be out that way in a few minutes but uh theyre gonna want <CH32_First_Name> to come out before they deliver it I believe
+Rogan_delta,296,0,HT01,cant work that way
+Rogan_delta,297,5,PN60,I tell you its uh I think uh youre wrong there <HT01_First_Name> I think the the uh I think you showed a sign of weakness but actually its a sign of strength when you were able to show that you got compassion for people and uh the honest sincere belief that uh uh you wanna do good and you can make a good good showing there by making the first step here
+Rogan_delta,298,0,HT01,Im not here to make a good showing
+Rogan_delta,299,0,PN60,You gotta we gotta convince those people that uh [pause]
+Rogan_delta,300,0,PN60,control to Frontier 101 [radio_cutting_out]
+Rogan_delta,301,0,PN60,The units there Theyre putting the ladder up now They should be passing the food now [muffled_conversation]
+Rogan_delta,302,0,PN60,control to <HT01_First_Name> [pause] Ground control to <HT01_First_Name> [pause] Ground control to 101 [radio_cutting_in_and_out]
+Rogan_delta,303,0,PN60,Ground control to <HT01_First_Name>
+Rogan_delta,304,0,CH31,This is captain Uh go ahead
+Rogan_delta,305,0,PN60,<HT01_First_Name> there
+Rogan_delta,306,0,CH31,He can hear
+Rogan_delta,307,0,PN60,Ask him if everythings all right Id like to talk to him
+Rogan_delta,308,0,CH31,Chowin down
+Rogan_delta,309,0,PN60,Okay Ill hear from him when he gets don chowin down
+Rogan_delta,310,0,CH31,Thank you [pause]
+Rogan_delta,311,0,PN60,Heres ground control Go ahead
+Rogan_delta,312,0,CH31,Cant hear me now [radio_cutting_in_and_out]
+Rogan_delta,313,0,PN60,Ground control Go ahead
+Rogan_delta,314,0,CH31,Heard from Denver
+Rogan_delta,315,0,PN60,Repeat please
+Rogan_delta,316,0,CH31,Did Frontier people arrive from Denver <Theres_a_big_area_here_where_the_tape_sounds_like_its_on_the_wrong_speed>
+Rogan_delta,317,0,PN60,given us an answer on uh whats your reaction going to be if <Prisoner_Last_Name> doesnt wanna go [pause] Ill have to pass that word up the and that everything will work out <This_is_another_area_where_the_tape_is_on_the_wrong_speed>
+Rogan_delta,318,0,HT01,I dont know Uh some people
+Rogan_delta,319,0,PN60,Does he have the weapon in his hands
+Rogan_delta,320,0,CH30,Affirmative At all times
+Rogan_delta,321,0,PN60,Ground control to <HT01_First_Name>
+Rogan_delta,322,0,CH30,Uh hes walking to the back and looking out the windows now uh cant hear you
+Rogan_delta,323,0,PN60,10 4 Think its relatively calm out there
+Rogan_delta,324,0,CH30,Yeah real calm
+Rogan_delta,325,0,PN60,10 4 back up uh tell him to give me a call
+Rogan_delta,326,0,CH30,Okay and well do it [pause]
+Rogan_delta,327,0,HT01,Yes sir [pause]
+Rogan_delta,328,0,CH30,hes back here if you wanna talk to him again
+Rogan_delta,329,0,PN60,This is ground control Go ahead
+Rogan_delta,330,0,CH30,You said uh call me when he comes back up here Hes ready to talk to you
+Rogan_delta,331,0,PN60,Hey <HT01_First_Name> you there
+Rogan_delta,332,0,HT01,Yes sir
+Rogan_delta,333,0,PN60,How many packs of cigarettes do you want he refuses to come or to talk with you Can you answer that question for me <HT01_First_Name>
+Rogan_delta,334,0,HT01,Yes sir
+Rogan_delta,335,1,PN60,Well we need an answer before before we can make a decision And uh its its essential for us in in our decision making uh that they know what your plans are what your alternatives are and what youre going to do Uh thats very very important <HT01_First_Name> so uh how bout giving me an answer on it cause you you certainly have uh plans and alternatives
+Rogan_delta,336,3,HT01,As soon as you start cooperating with me then get this show on the road
+Rogan_delta,337,1,PN60,Were cooperating in every manner possible <HT01_First_Name> Were doing everything humanly possible uh to resolve this to the benefit of everybody concerned so nobody gets hurt Thats the main thing We dont want anybody hurt
+Rogan_delta,338,1,HT01,Thats what were talking about so lets like I said before its imperative that you things going because uh Im in a position where I really dont have anything to lose
+Rogan_delta,339,5,PN60,They like you They think youre a pretty nice guy and they wanna talk to you and try to help you
+Rogan_delta,340,0,HT01,Theres no help needed
+Rogan_delta,341,0,PN60,coming into Atlanta Should be here in about an hour and a half uh if youd like to talk with him We can put him on
+Rogan_delta,342,0,HT01,demands
+Rogan_delta,343,0,PN60,Were working on em were working on em trying to to get uh necessary clearance but youre making it difficult by not giving us the answers we need to have
+Rogan_delta,344,0,HT01,much time you talking about
+Rogan_delta,345,7,PN60,I have no idea how much time were talking about Uh were working on it Theyre working on it a number of different people have to cooperate in making the decision Not one person can make it
+Rogan_delta,346,0,HT01,Seems to me to be a very simple request to start with to get <Prisoner_Last_Name> out here in exchange lady so that the little girlll be in good shape
+Rogan_delta,347,5,PN60,Look uh this thing is not all that bad Your parents will be here in a little while and uh you can walk away with this uh real easy like and uh get get yourself squared away and we think uh what your parents think and and I agree with them that youre a pretty good fella and you can you can make something of yourself Its never too late to to uh start shaping up and and uh straighten it up and get get moving in the right direction Youre at a crossroads now
+Rogan_delta,348,0,HT01,wanna play God thats their problem
+Rogan_delta,349,1,PN60,people to die Nobodys playing God Uh youre youre youre causing a lot of hurt to a lot of people like uh <CH32_First_Name> s little girl out in Denver and <CH32_First_Name> and the other stewardess there and and the passengers in the plane and their families Thats causing hurt and uh I dont think you wanna do that
+Rogan_delta,350,0,HT01,You think my heads screwed around wrong and uh can maybe say the same thing of you but like I said before this is uh bigger than both of us
+Rogan_delta,351,1,PN60,This is most important <HT01_First_Name> and and uh I appreciate how you feel but I also appreciate how the passengers feel and how the pilot feels and and the crew there and and uh Im concerned for them as well as for you Uh I dont wanna see anybody hurt or anything I couldnt uh I dont like to see pain and suffering I like to see happiness and joy
+Rogan_delta,352,0,CH30,This is the co pilot speaking and uh just for my own personal and the captain wed like to know uh how deep <HT01_First_Name> is in right now I mean uh he hasnt broken any uh I mean what hes done is unlawful but uh you know how bad is it for him right now If he was to give it up right now
+Rogan_delta,353,6,PN60,At this time uh [as] regards to todays incident no charges no have been filed on him at this time Uh would <HT01_First_Name> like to talk to his lawyer
+Rogan_delta,354,0,HT01,Which one
+Rogan_delta,355,0,PN60,<HT01s_Lawyer>
+Rogan_delta,356,0,HT01,Yes Ill talk to Mr <HT01s_Lawyers_Last_Name>
+Rogan_delta,357,0,PN60,10 4 I dont know just where he is now Ill try to get in touch with him <HT01_First_Name> and and uh bring him out here to talk to you But the problem right now is not so large that it cant be resolved uh to <HT01_First_Name> s satisfaction I think Uh can you hear me <HT01_First_Name>
+Rogan_delta,358,0,HT01,sir only spoke of freedom before and [radio_cutting_out] [pause]
+Rogan_delta,359,7,PN60,cigarettes are on the way and uh the as far as the fella in prison that decision has to be made up the line
+Rogan_delta,360,0,CH31,Uh wed sure like to have some uh relief there
+Rogan_delta,361,0,PN60,Uh were aware of uh your predicament and working every way we can to help
+Rogan_delta,362,0,CH31,4 Off [pause]
+Rogan_delta,363,0,ON80,Ground control to 101
+Rogan_delta,364,0,HT01,Go ahead
+Rogan_delta,365,0,PN60,They should be approaching the plane there in just a few seconds
+Rogan_delta,366,0,HT01,Okay We see em
+Rogan_delta,367,0,CH30,[Okay] hes in the back again now
+Rogan_delta,368,0,PN60,The trucks coming on out
+Rogan_delta,369,0,CH30,Okay Uh hes clear in the rearend of the airplane You got any ideas we can be of help
+Rogan_delta,370,0,PN60,Uh were just trying to keep him cool and we dont wanna get him alerted were pushing too hard Uh you think hes getting too uptight uh try to come in and warn us
+Rogan_delta,371,0,CH30,Okay If things really get tense Ill turn this light off thats on top of the airplane Ill tell him hes here now
+Rogan_delta,372,0,PN60,10 4 [pause]
+Rogan_delta,373,0,PN60,to <HT01_First_Name> [pause]
+Rogan_delta,374,0,HT01,Yes sir
+Rogan_delta,375,0,PN60,Get the cigarettes all right
+Rogan_delta,376,0,HT01,Yes sir
+Rogan_delta,377,0,PN60,Everybodys feeling all right out there
+Rogan_delta,378,0,HT01,to be
+Rogan_delta,379,0,PN60,Your lawyers enroute Should be here in about 15 minutes
+Rogan_delta,380,6,HT01,Im setting a 500 deadline
+Rogan_delta,381,1,PN60,Uh <HT01_First_Name> we cant uh be sure that were gonna have all of the answers by 500 Uh lets not set a deadline on it L lets uh play it by ear and see how things go Weve play tried to play it pretty straight with you havent and and its not going to resolve the matter Weve got to find out primarily before we can get answers what your intentions are as far as what if <Prisoner_Last_Name> fails goes with you what if he refuses to go with you
+Rogan_delta,382,6,HT01,not the point either The point is Ive set some demands and if theyre not met then the people are going to die
+Rogan_delta,383,7,PN60,Nobody has to die out here Were just just trying to to work things out and get things resolved and uh set deadlines and uh threatening people is not what we want right now We need to to be cooperative and talk about this thing and try to get uh the answers so these people can make the decisions
+Rogan_delta,384,0,HT01,just about all we can talk
+Rogan_delta,385,0,PN60,Well youre gonna talk to your attorney arent you
+Rogan_delta,386,0,HT01,with him
+Rogan_delta,387,0,PN60,Hell be here shortly and your your parents theyre much concerned and theyre theyre interested in trying to help you and working with you and your attorney wants to work with you and were willing to work with you What more could you ask for
+Rogan_delta,388,0,HT01,Im asking for is the demands I set down can be expected
+Rogan_delta,389,0,ON81,Listen I just got here and uh was up in Washington D C He had to appear before a grand jury up there with another one of his clients and I was up in uh one of the northern counties up in Georgia this morning myself and as soon as we found out that there was a a situation going on down here uh we both got off what we were doing and came down specifically to uh address ourselves to this Now <HT01s_Lawyers_Middle_Name> had a problem in that he couldnt get a commercial flight He is coming down on a private plane and I anticipate he will be here somewhere around a quarter after five or so I cannot get him here any earlier and theres a tremendous traffic jam out there Just need some time to talk to you Uh if youve got any questions the reason why Im here is to answer em Okay
+Rogan_delta,390,0,HT01,We have nothing to talk about
+Rogan_delta,391,0,ON81,Why dont you just explain to me uh some of the things that uh are going on on the plane about whos on there if theres anybody that you know uh why dont you just explain to me uh how long the planes been there cause I just got here and these guys havent even had a chance to uh sort of give me any briefing
+Rogan_delta,392,0,HT01,been here two or three hours now and uh I set forth some demands and theyre stalling think uh talking with me is going to accomplish something
+Rogan_delta,393,1,ON81,All right Im not talking about the other air traffic controllers and these other people up here Im talking about me and <HT01s_Lawyers_Middle_Name> Now weve got different considerations than these other folks do Obviously anything that you tell us is a matter of confidence between you and us I really wish that <HT01s_Lawyers_Middle_Name> had a chance to get down here I do need some time and I like Ive told you all along <HT01s_Lawyers_Middle_Name> and I work on all these cases together You know uh in fairness to <HT01s_Lawyers_Middle_Name> I just wish that you could give us some time to get <HT01s_Lawyers_Middle_Name> here so that he can talk to you I know that right now you may not think that theres anything to be discussed but <HT01s_Lawyers_Middle_Name> may have some insight or some information that would be very helpful to you at this time
+Rogan_delta,394,0,HT01,This is uh a whole new case in itself desperation I guess you could call it
+Rogan_delta,395,0,ON81,Uh well I could certainly understand your frustrations and I could certainly understand everything that youve been going through I could certainly understand everything thats happened so far today Weve had only uh really sporatic coverage but its been some news coverage Its just some tidbits of information that have come out and a lot of its just been real speculation and uh Im not sure I really understand all of this While weve got some time do you mind just explaining to me exactly where the flight took off this morning and things like that
+Rogan_delta,396,0,HT01,It took it took off from Grand Island
+Rogan_delta,397,0,ON81,Could you repeat that last uh statement <HT01_First_Name> I had some trouble hearing it Theyre you know theyre still directing some of these other planes in and out and uh things really are going pretty much as normal here Uh I I couldnt hear what you said about where the point of uh departure [tape_cut_off]
+Rogan_delta,398,1,PN60,No <HT01_First_Name> you gotta consider your parents your brothers and uh the people that uh love you and have faith in you and uh theyre thinking about you and and theyre worried about you and they want to see you you everything turn out well and uh you owe something to them too dont you
+Rogan_delta,399,0,HT01,Its a long story
+Rogan_delta,400,3,PN60,It may be a long story and and there may be some misgivings but you owe them uh something Theyve theyve tried uh and the best they could and and worked and sometimes maybe it wasnt the right thing they did but uh they tried and you cant stop trying to to uh help the people you love [pause] If you want to see <Prisoner_Middle_Name> uh just put the gun down and come on out and well take you to see <Prisoners_Middle_Name> no problem [pause] <HT01_First_Name> did you read me on that I said that uh if you just put your gun down and come on out well take you to see <Prisoner_Middle_Name> and uh you have my word on that that nobodys interested in in uh uh harming you or anybody else Well be glad to resolve the matter in that way [pause] Ground control to <HT01_First_Name> [pause] Ground control to <HT01_First_Name> I 101 are you trying to raise ground control Were having some difficulty reading [pause] 101 if you can read were having some radio difficulty here Well be with you in just a second [pause] 101 uh somebodys got us blocked out here on traffic Uh I dont know whether you can read us or not If not were trying to remedy the situation Well be back with you just as soon as we get it remedied [pause] 101 could you check your <HT01_First_Name> to see that its not stuck Stand by 101 Were checking equipment downstairs [pause]
+Rogan_delta,401,0,ON80,101 come up on 12605 if you can read Come up on 12605 [pause] Ground control to 101
+Rogan_delta,402,0,CH31,Okay we have you on 12605 now
+Rogan_delta,403,0,ON80,10 4 Apparently somebody had a <HT01_First_Name> stuck or else somebody had us jammed up pretty well Is <HT01_First_Name> there
+Rogan_delta,404,0,CH31,Hes sitting in the back
+Rogan_delta,405,0,PN60,Tell <HT01_First_Name> to come on up I need to talk to him Okay
+Rogan_delta,406,0,CH31,Whos this
+Rogan_delta,407,0,PN60,This is <PN60>
+Rogan_delta,408,0,CH31,
+Rogan_delta,409,0,PN60,This is <PN60_First_Name>
+Rogan_delta,410,0,CH31,Okay <PN60_First_Name> [pause] Okay he cant uh he cant hear now Hes in the back Anything we can do
+Rogan_delta,411,0,PN60,Uh I want to know if <HT01_First_Name> uh got the message from his defense attorney
+Rogan_delta,412,0,CH31,Yes he did
+Rogan_delta,413,0,PN60,Uh did he understand that uh were doing everything possible that we can
+Rogan_delta,414,0,CH31,Yes he did I think hes considering it I hope hes considering it
+Rogan_delta,415,3,PN60,Uh ask him uh if he will give us uh additional time [radio_cutting_out]
+Rogan_delta,416,0,CH31,Hed like to talk to you now
+Rogan_delta,417,0,PN60,You there <HT01_First_Name>
+Rogan_delta,418,0,HT01,Yes sir
+Rogan_delta,419,1,PN60,<HT01_First_Name> as you can see were not uh trying to beat around the bush Weve weve given it to you straight Even your defense attorney gives it to you straight And before we were cut off I offered you the the if you wanted to see <Prisoner_Last_Name> that uh just lay down your gun and walk out of the plane and uh well be glad to take you to <Prisoner_Last_Name>
+Rogan_delta,420,0,HT01,
+Rogan_delta,421,1,PN60,Uh but uh right now uh theyre working on it and uh wed like a little additional time uh the priest at it the chaplin at it the county jail uh also is concerned about you He called I didnt catch his name and he wants to help Uh your parents want to help <NAME> wants to help Your defense attorney wants to help Everybody wants to help you <HT01_First_Name> Uh take advantage of that Its its the only way out is to listen to what they have to say and work with them They can show you the light right way to go
+Rogan_delta,422,0,HT01,only people that can help is the people who are making the the decisions on the demands
+Rogan_delta,423,3,PN60,Are you gonna give us some additional time
+Rogan_delta,424,0,HT01,give you the benefit of the doubt
+Rogan_delta,425,0,PN60,Your mother and father are here now Do you want to talk to either one of em [pause] You read me <HT01_First_Name> [pause] Uh <HT01_First_Name> you gonna talk to your father
+Rogan_delta,426,0,HT01,
+Rogan_delta,427,0,PN60,10 4 [pause] when I can talk with him [pause] to 101
+Rogan_delta,428,0,CH31,Go ahead
+Rogan_delta,429,0,PN60,Uh we got a helicoptor coming in with uh lead defense counsel <HT01s_Lawyer> He should land in a few minutes Uh were not just sure where hes going to land but the helicoptor will be <HT01s_Lawyers_First_Name> <HT01s_Lawyers_Middle_Name> so tell <HT01_First_Name> not to get upset at it
+Rogan_delta,430,0,CH31,Do you have any idea where it the helicoptor will land
+Rogan_delta,431,0,PN60,Uh were gonna try to bring it in to close to control tower here uh where we can get uh <HT01s_Lawyers_Middle_Name> into the control tower in a few seconds but it may land over there depending upon whether we what the traffic patterns are at the time
+Rogan_delta,432,0,CH31,Okay
+Rogan_delta,433,0,PN60,Is <HT01_First_Name> there now
+Rogan_delta,434,0,CH31,Negative
+Rogan_delta,435,0,PN60,When he gets back uh where he can hear uh ask him to talk with us We need to his lawyer wants to talk with him again
+Rogan_delta,436,0,CH31,Okay when he comes up well well well let you know
+Rogan_delta,437,0,UNKN,Maybe its cause Im chewing gum
+Rogan_delta,438,0,PN60,<HT01_First_Name> this is <PN60_First_Name> again Are you there
+Rogan_delta,439,0,HT01,Yes sir
+Rogan_delta,440,1,PN60,Okay <HT01s_Lawyers_First_Name> <HT01s_Lawyers_Middle_Name> s on the elevator on his way up now and uh give you straight advice I know <HT01s_Lawyers_Name> s a reputable man Hell do whats best for you and look out for your interests and you can have confidence in him passengers all right there now
+Rogan_delta,441,0,HT01,Everyone is
+Rogan_delta,442,0,ON82,Ground control <HT01s_Lawyers_Middle_Name> <HT01s_Lawyers_Last_Name> <HT01_First_Name> come in
+Rogan_delta,443,0,HT01,Yes sir
+Rogan_delta,444,0,ON82,<HT01_First_Name> this is <HT01s_Lawyers_Middle_Name> Ive been in Washington all day I just got in Just got to the airport Need to talk to you Whats the problem buddy
+Rogan_delta,445,0,HT01,Well sir theres not a problem yet Uh the only problem thats going to occur is if uh people dont meet the demands that Ive set forth
+Rogan_delta,446,0,ON82,<HT01_First_Name> this is <HT01s_Lawyers_Middle_Name> Ive talked to <ON81> just briefly and I dont know entirely what the situation is Give it to me again so Ill know from the start Okay
+Rogan_delta,447,0,HT01,I just set forth some demands that uh the people have there and uh [pause] got on the plane and [radio_cut_out] went to Kansas City and came here Uh they should have those demands there in front of you somewhere
+Rogan_delta,448,0,ON82,Well they probably do but there uh there are people here and I wanna hear it from you Come on level with me What do you need Okay
+Rogan_delta,449,0,HT01,Need an honorable way out
+Rogan_delta,450,0,ON82,Say it again I didnt read you
+Rogan_delta,451,0,HT01,I need an honorable way out
+Rogan_delta,452,4,ON82,honorable way <HT01_First_Name> Were not dealing with a were dealing with innocent people Thats not the honorable way Uh you and I have got to figure an honorable way out Tell me what you mean by honorable way out
+Rogan_delta,453,0,HT01,There is no such thing as innocent people Babies are innocent but uh as far as uh the rest of the people are concerned
+Rogan_delta,454,1,ON82,Okay <HT01_First_Name> how bout this I understand theres a stewardess on board that has a very young daughter a baby whos very concerned about her mothers safety What about her What can we do for her
+Rogan_delta,455,0,HT01,Well when they meet the demands shes free to go
+Rogan_delta,456,1,ON82,<HT01_First_Name> I dont know what the demands are Tell me again I dont I dont wanna listen to these people I want you to tell me <HT01_First_Name> I dont know these people over here I know you Im your attorney I wanna help you Tell me what we need to do
+Rogan_delta,457,0,HT01,I want <Prisoner_Middle_Name> <Prisoner_Last_Name> out of jail [pause] and him to come to this plane and as soon as he gets to this plane and I can talk to him then the stewardess can leave I want 3 000 000 00 and I want two machine guns and two 45 caliber pistols ammunition
+Rogan_delta,458,0,ON82,I dont know anything about your plane what kind of uh fuel capacity you have or where you want to go or anything else but thats it at the moment right You want to you want to talk to <Prisoner_Last_Name> Do you want <Prisoner_Last_Name> to go with you
+Rogan_delta,459,0,HTO1,Thats up to him I want to see him and talk with him
+Rogan_delta,460,0,ON82,If I talk to <Prisoner_Last_Name> would you believe me whatever he says he wants to do
+Rogan_delta,461,0,HT01,I need to see him sir
+Rogan_delta,462,3,ON82,Okay Let me talk to these people here and get get a rundown on whats happening I just walked in I dont wanna ask you to please have enough confidence in me not to do anything until you and I can talk about it Okay
+Rogan_delta,463,6,HTO1,Time is running out sir
+Rogan_delta,464,2,ON82,Okay <HT01_First_Name> come on I I havent run out on you You dont run out on me Okay
+Rogan_delta,465,0,HTO1,different situation
+Rogan_delta,466,5,ON82,Its not different when men do what men You gotta understand that Im not only your attorney Im your friend I wanna help you Now give me some time to find out whats going on Ill get back to you Okay
+Rogan_delta,467,0,HTO1,Sir the best way you can help me is to tell the people that Im serious and uh [pause] I guess thats about it
+Rogan_delta,468,3,ON82,Okay Stand by til you hear from me Okay <HT01_First_Name> Do it for me [pause]
+Rogan_delta,469,0,CH31,<HT01_First_Name> would like to know how youre coming along This is the captain
+Rogan_delta,470,0,ON82,<HT01_First_Name> this is <HT01s_Lawyers_Middle_Name> I was just fixin to call you
+Rogan_delta,471,0,CH31,Here he is Just a moment
+Rogan_delta,472,0,HT01,Yes sir
+Rogan_delta,473,0,ON82,<HT01_First_Name> <HT01s_Lawyers_Middle_Name> How you doing [pause] <HT01_First_Name> you okay
+Rogan_delta,474,0,HT01,10 4 [radio_cutting_out]
+Rogan_delta,475,0,CH30,hear us on 12605
+Rogan_delta,476,0,ON82,I wanna make sure Im talking to <HT01_First_Name> not some pilot <HT01_First_Name> come on
+Rogan_delta,477,0,HTO1,Yes sir Go ahead
+Rogan_delta,478,7,ON82,Okay <HT01_First_Name> I recognize your voice Look <ON81> s been working with these fuckin feds They move like bur bureaucrats move Ive kicked some asses Were trying to get to <Prisoner_Last_Name> out here You you realize what sort of thing this is You know its nationwide now Everybody knows about it Its we gotta we gotta go to the AG Thats the attorney general in Washington but Im kicking asses so stand by Okay
+Rogan_delta,479,0,HT01,trying
+Rogan_delta,480,1,ON82,Okay <HT01_First_Name> now one thing they need and I think this is reasonable It you you tell me if you dont think so If I can get <Prisoner_Last_Name> out here I need a show of good faith that youre that were dealing as man to man Release the two women Keep the men and the pilots but release the two women so Ive got something to bargain with I cant just tell these guys to shove it I gotta have something to bargain with
+Rogan_delta,481,0,HT01,got it
+Rogan_delta,482,3,ON82,Okay Let the two stewardesses go Ill kick their ass til we get <Prisoner_Last_Name> out here Okay Hang in there with me Okay Let me get some instructions on how to handle it
+Rogan_delta,483,3,HT01,Ill let the stew stewardesses go as soon as <Prisoner_Last_Name> comes
+Rogan_delta,484,1,ON82,<HT01_First_Name> we gotta have a show of good faith on your part first I Im raising hell to get him out to you Theyre trying to raise the attorney general in Washington Let the girls go You got the men left Thats honorable We talked about children awhile ago The girls got a four year old daughter Shes a widow Theres nobody else but her Let her off and Ill kick ass til I get something done Okay
+Rogan_delta,485,4,HT01,Ill have to stay with what I started with and that is uh to Its very simple as far as I can see it It and when Ill trade <Prisoner_Last_Name> for the women
+Rogan_delta,486,4,ON82,<HT01_First_Name> you still got 13 people out there We gotta have a a show of good faith so theyll trust me so I can bargain with them Im Im your representative Im you over here not on the plane Im representing you Ive got you talk about honor Weve got to do it honorably Theyve got to know that they can deal with me honorably and that I I have enough and you have enough confidence in me that were gonna be able to do what we say we do and the first step is to let the women go Then you still got the men You still got all the bargaining power you need
+Rogan_delta,487,4,HT01,You have my word that as soon as <Prisoner_Name> comes here that the women will will be able will be set free
+Rogan_delta,488,0,ON82,<HT01_First_Name> <ON81> talked to you on the phone explained about our conversation with uh <Prisoners_Middle_Name> right You you know whats whats whats coming down
+Rogan_delta,489,0,HT01,Pardon me sir
+Rogan_delta,490,0,ON82,You understood what was coming down on the plea on that other thing right [pause] The bank robbery case
+Rogan_delta,491,0,HT01,No I didnt understand that
+Rogan_delta,492,4,ON82,All right didnt you understand that we had talked to <Prisoners_Middle_Name> gone over all the evidence with him photographs statements [losses] tag marked money red dye the whole smear the whole nine yards and that <Prisoners_Middle_Name> had agreed that the only reasonable alternative was try to cut our losses minimize the time go ahead and and enter a plea and uh get some police on this ivestigation get get your parents in here to talk to the judge things of that sort cut our losses Thats the honorable thing to do <HT01_First_Name> [pause] <Prisoners_Middle_Name> has agreed to that How do you feel about it [radio_cutting_out] Yes
+Rogan_delta,493,0,HT01,This is a different situation now
+Rogan_delta,494,1,ON82,I know its escalated It really is escalated <HT01_First_Name> Thats why weve gotta have a show of faith to get something started We had something working on the other charges Thats beside the point now Forget about that Weve got people out there and and <Prisoners_Middle_Name> has gotta make his own decision Weve got to get him out here <ON81> and I have got to talk to him [pause] Ive got to have something to bargain with <HT01_First_Name> Let me have the two women Let em you dont need em Let em go Thats honorable Then I got something to bargain with to get <Prisoner_Last_Name> out here Come back to me
+Rogan_delta,495,4,HT01,an honorable man here You have my word uh to as soon as <Prisoners_Middle_Name> sh as soon as I see him [pause] then Ill Ill trade <Prisoners_Middle_Name> for the two women
+Rogan_delta,496,1,ON82,<HT01_First_Name> I can believe that but these people dont know you They dont know you at all Theyve never seen you before I know youre youre an honorable man and that your words good but they dont and theyre telling me if Im gonna be your representative Ive got to have some show of good faith from you Have that much confidence in me <HT01_First_Name> to let the women go Keep the men Well get <Prisoner_Last_Name> out here and talk some more Think about it [pause] Tell me what you think now
+Rogan_delta,497,0,HT01,confidence in you is just uh the lose my bargaining power
+Rogan_delta,498,1,ON82,You dont lose your bargaining power by letting two people out of 13 go You still got the men there the captain and the co pilot Nobodys gonna sacrifice them Im just asking for a show of good faith by letting the women go Then Ive got something to raise hell about over here Ive got something to prove youre an honorable man other than just my word for it [big_pause]
+Rogan_delta,499,0,ON82,Talk to me <HT01_First_Name>
+Rogan_delta,500,0,HT01,Im listening and uh Im thinking it over
+Rogan_delta,501,0,ON82,Okay take your time Come back to me when youre ready [pause]
+Rogan_delta,502,0,HT01,Sir
+Rogan_delta,503,0,ON82,Yes <HT01_First_Name>
+Rogan_delta,504,0,HT01,All right Ill let the women go
+Rogan_delta,505,0,ON82,Say it again I didnt hear you
+Rogan_delta,506,0,HT01,Ill let the women go
+Rogan_delta,507,5,ON82,Youre a good man <HT01_First_Name> It gives me something to deal with Hold on a minute and let me let me see how we wanna arrange it Okay Stand by
+Rogan_delta,508,0,HT01,I have no alternative but to stick with what I started with
+Rogan_delta,509,1,ON82,I understand you set a deadline <HT01_First_Name> but remember see I was in Washington in the Department of Justice with another client and I flew into the Airport They picked me up with helicoptor and brought me over here So I got here just as quickly as I could Ive got to have some time to get a grasp of this thing Let these people who know who I am let em know Ive got some balls and Im dealing for you Youve got to help me by giving me a show of good faith so theyll deal with me Let us have the women Let me call you back in just a minute to to Theyll be no sweat Nobodys gonna make a move Im sure of that [radio_cutting_out] [pause] on this frequency [pause]
+Rogan_delta,510,0,CH30,Okay hadnt talked to you for awhile We just thought maybe you couldnt hear us [pause]
+Rogan_delta,511,0,ON82,Ground control to 101 [radio_cutting_out]
+Rogan_delta,512,0,ON82,Uh let me speak to <HT01_First_Name> about <Prisoner_Last_Name>
+Rogan_delta,513,0,HTO1,Go ahead
+Rogan_delta,514,0,ON82,<HT01_First_Name> this is <HT01s_Lawyers_Middle_Name> You read me
+Rogan_delta,515,0,HTO1,Just heard you
+Rogan_delta,516,0,ON82,<HT01_First_Name> I think youre making some progress with getting <Prisoners_Middle_Name> out I dont have him on bond yet but I have them bringing him here to the airport so I can talk with him and then you can talk with him [pause] Do you understand [pause] <HT01_First_Name> this is <HT01s_Lawyers_Middle_Name> Come in
+Rogan_delta,517,0,HTO1,Go ahead
+Rogan_delta,518,0,ON82,I havent had a chance to talk to <Prisoners_Middle_Name> yet I finally got them to bring him here to the airport Hes almost here I want to go down and talk with <Prisoners_Middle_Name> and tell him what the situation is Then Ill get back to you Okay
+Rogan_delta,519,0,HT01,Okay
+Rogan_delta,520,0,ON82,It should be about 10 15 minutes Stand by St stay with me okay buddy
+Rogan_delta,521,0,HTO1,
+Rogan_delta,522,0,ON82,Ground control to 101
+Rogan_delta,523,0,HTO1,Go ahead
+Rogan_delta,524,0,ON82,Let me speak to <HT01_First_Name>
+Rogan_delta,525,0,HTO1,
+Rogan_delta,526,0,ON82,<HT01_First_Name> this is <HT01s_Lawyers_Middle_Name> You doing okay
+Rogan_delta,527,0,HTO1,Just fine
+Rogan_delta,528,0,ON82,Okay I have <Prisoners_Middle_Name> here He wants to talk to you Okay
+Rogan_delta,529,0,HTO1,Go ahead
+Rogan_delta,530,0,ON83,Hello <HT01s_First_Name> How are you doing
+Rogan_delta,531,0,HT01,How are you
+Rogan_delta,532,0,ON83,Uh <HT01s_First_Name>
+Rogan_delta,533,0,HTO1,Yeah Im fine How are you
+Rogan_delta,534,5,ON83,Id like to congratulate you on your uh inspiring uh feat Its its very impressive and it takes a lot of nerve to do that [radio_cutting_out]
+Rogan_delta,535,0,HTO1,What is happening with this bond and uh all that
+Rogan_delta,536,0,ON83,I talked to uh Mr <HT01s_Lawyers_Last_Name> and <Other_Lawyer> and both of them assure me that uh guy at at some private uh benefactor is gonna post bond in any amount and he said this would be the only alternative our escape is from this airport in one piece and uh [pause] uh release release the uh passengers <HT01s_Lawyers_Last_Name> s gonna come on board to escort you to the car and uh otherwise uh theyre not gonna give any demands Theyre not gonna give the money or theyre not gonna let me go and it would just be uh itll be like on so to speak Uh the only way to get out would be for you to come off Uh dont come <HT01s_Lawyers_Last_Name> did not come to shoot you or anything I talked to uh <HT01s_Lawyers_Last_Name> and <Other_Lawyer> and here are a couple of agents over here Theyre gonna come down with <HT01s_Lawyers_Last_Name> Uh just <HT01s_Lawyers_Last_Name> and one agent is gonna come down and hes gonna take you straight over to uh <Judge_Last_Name> s office Theyre gonna put you in jail Uh take you to the judge first
+Rogan_delta,537,0,HTO1,sound too good
+Rogan_delta,538,5,ON83,Well uh not i i i its not what you wanted Uh thank you I appreciate it and its very very impressive Its loyal and uh Im sure that you probably made people like roll over in their graves if theyre listening but youve accomplished what you can accomplish as a man at this point The rest man you can you can serve yourself better Think of yourself You can get uh you know uh Nothings gonna happen to you Uh well <HT01s_Lawyers_Last_Name> assures me that [pause] Im not gonna tell you what to do Uh but Ive been with these people all day and you know I dont trust uh I dont trust policemen any more than you do now but uh Im pretty sure that uh you know I Im almost certain that well with <HT01s_Lawyers_Last_Name> coming on board hes offered to substitute himself uh for the passengers You know and I dont think that he wants to commit suicide or anything like that so go ahead and uh surrender Theres nothing else to do man Its just gonna be uh a bloody thing
+Rogan_delta,539,0,ON82,<HT01_First_Name> this is <HT01s_Lawyers_Middle_Name> Come back
+Rogan_delta,540,0,HTO1,Hello
+Rogan_delta,541,1,ON82,<Prisoners_Middle_Name> s a little nervous as you can tell but what hes telling you is straight Theres really nothing we can do on the airport Weve got to do it in court Im gonna be with you Ill come out to the plane Ive got their solemn promise and I theres an agent here that Ive known personally for 15 years wouldnt lie to me not gonna be any funny business Theyll let me come on the plane with you after you release the people and Ill have one agent with me in the car and Ive got Judge <Judge_Last_Name> standing by Hes the judge that lowered your bond and theyre gonna take us directly to the courthouse before Judge <Judge_Last_Name> and Im convinced and I wouldnt tell you this if I wasnt Theyve done everything Ive asked them to do so far Im convinced theres not gonna be anything but lets go in and lets fight our court battle We cant fight it at the airport but we can fight it in court Youve made your point <Prisoners_Middle_Name> very much appreciates it Nows the time to to put this aside and go on in see Judge <Judge_Last_Name> do the best we can do try to get <Prisoners_Middle_Name> out on bond for at least awhile anyway before while theyre doing the police investigation and do what we have to do How do you feel about that
+Rogan_delta,542,0,ON83,<HT01s_First_Name> uh theres one bad thing about this situation uh based on my conversation with <HT01s_Lawyers_Last_Name> and <Other_Lawyer> You havent uh count your demands in any political etiology or anything The only place we could go would be out of this country fly to say Cuba and I dont think counselor would let us in there Uh see the thing is is those countries would be embarassed by Uh well it it just based on my viewpoint you know to whatever it means it doesnt look good If it did I would come down there with you and [radio_cut_out]
+Rogan_delta,543,1,ON82,<HT01_First_Name> this is <HT01s_Lawyers_Middle_Name> What do you think Were not hurrying you for the decision but <Prisoners_Middle_Name> and I think that we can help you that youre going down the a deadend alley now and its not worth it so let me try to help you and you youve already helped <Prisoners_Middle_Name> all you can Let me try to help you now
+Rogan_delta,544,1,ON83,<HT01s_First_Name> dont commit suicide or anything like that Go ahead and just uh surrender dont dont take off or anything like that Uh I can I can you know do a stretch something like that and maybe a little space between our ourselves and reality might make us you know a little better but uh but uh this this is just futile You know theres nowhere to go and according to uh my knowledge of this plane it can only go back as far as uh Island or in the opposite direction were gonna have to stop again and on down the road or something like that Im saying that its not logical to do this or anything like that It was feasible you know well I can say you have you have my sympathies I admire what you do Its very very manly very impressive and I appreciate your and your loyalty loyalty to me Right now your life means more than just throwing it away It doesnt serve any purpose just to you know just to waste yourself like that You need a purpose and this is just it its futile [pause] Youre not obligated to me or anything like that Just think about yourself from here on in
+Rogan_delta,545,0,HT01,That does make some sense
+Rogan_delta,546,1,ON83,Okay Uh everybody around here is breathing a sigh of relief so I I dont Ive looked at some of their faces and they dont look like theyre gonna shoot you or anything like that have confidence and uh <HT01s_Lawyers_Last_Name> <HT01s_Lawyers_Last_Name> s all right <Other_Lawyer> hes hes okay Most of these guys around here seem to be kind of honest and <HT01s_Lawyers_Last_Name> s coming down and he he uh he I dont think hes gonna do anything See once you get out of it man we can talk you know youll have time to look things over and this this is you know uh uh just get out of it man Its its not worth it you know dont dont waste yourself for me or for anybody else Let the passengers go
+Rogan_delta,547,0,ON82,<HT01_First_Name> this is <HT01s_Lawyers_Middle_Name> Okay
+Rogan_delta,548,0,HT01,listening
+Rogan_delta,549,3,ON82,Okay Um <Prisoners_Middle_Name> and I agree this is the only way and I give you my word Im gonna do everything I can to help you and I am personally convinced and Ive been in this profession a long time that theres not gonna be any violence I want you to tell me how you wanna handle the passengers leaving the plane so that I can come to you I want you and I to walk out as two men as a team go into court together Thats the honorable way to do it <HT01_First_Name> this is <HT01s_Lawyers_Middle_Name> again I dont know what the situation is on the plane so you tell me how you want to go about releasing the passengers and where you want me to come to <HT01_First_Name> this is <HT01s_Lawyers_Middle_Name> You may be thinking I just wanna make sure you can hear me and understand what Im saying Give me just a response that you understand my message
+Rogan_delta,550,0,HT01,Yes I understand
+Rogan_delta,551,0,ON82,Okay Let me know when youre ready to tell me how you wanna release the passengers I can get these fellas to do it any way you say [pause] <HT01_First_Name> this is <HT01s_Lawyers_Middle_Name> You read me
+Rogan_delta,552,0,HT01,Yes I read you
+Rogan_delta,553,1,ON82,In thinking about it uh I dont know how many passengers are on board but what about the one FBI agent that Ive known for a long time and I have complete confidence in His name is <PN60> He and I can come to the front of the plane so you can see us Nobody but the two of us Hell stay in the car I will come and try to get the door open and the ladder down You come down and you and I will walk to the car and I will ride with you to the courthouse How bout that
+Rogan_delta,554,0,HT01,
+Rogan_delta,555,5,ON82,Okay <HT01_First_Name> <PN60> and I are gonna get in a car Well drive around to the front of the plane You can watch for us Im wearing a blue youll recognize me Im wearing a light blue suit <PN60_Last_Name> will stay at the car Ill walk up and try to get the door open You you watch me so you can help me get the door open If I need some help <PN60> will come help me get the door open Youll seize me and youll know that everythings secure and Im gonna be right there at your side all the way to Judge <Judge_Last_Name> s chambers and all the way wherever we go from there Okay buddy
+Rogan_delta,556,0,HT01,
+Rogan_delta,557,0,ON82,All right were on the way Were probably 10 15 minutes away So you stand by and take it easy Okay [pause] <HT01_First_Name> did you read me about ten minutes itll take me to get out there Acknowledge that for me please
+Rogan_delta,558,0,HT01,Acknowledged
+Rogan_delta,559,5,ON82,Okay buddy stand by Im on my way

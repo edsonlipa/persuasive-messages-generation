@@ -1,0 +1,89 @@
+
+NPS Persuasion Corpus
+
+Point of Contact:  Joel Young, Naval Postgraduate School, jdyoung@nps.edu
+
+Please use and cite this corpus in the context of this paperr:
+
+A Microtext Corpus for Persuasion Detection in Dialog.
+Joel Young, Craig H. Martell, Pranav Anand, Pedro Ortiz, and Henry Tucker Gilbert IV. 
+Analyzing Microtext, volume WS-11-05 of AAAI Workshops, AAAI, (2011)
+
+@inproceedings{conf/aaai/YoungMAOGG11,
+  added-at = {2012-02-22T00:00:00.000+0100},
+  author = {Young, Joel and Martell, Craig H. and Anand, Pranav and Ortiz, Pedro and IV, Henry Tucker Gilbert},
+  biburl = {http://www.bibsonomy.org/bibtex/2dc8038e5382e35575d30aa3f773bc773/dblp},
+  booktitle = {Analyzing Microtext},
+  crossref = {conf/aaai/2011am},
+  ee = {http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3896},
+  interhash = {3878a2f5f260035ff290ac3bf89c4a70},
+  intrahash = {dc8038e5382e35575d30aa3f773bc773},
+  keywords = {dblp},
+  publisher = {AAAI},
+  series = {AAAI Workshops},
+  timestamp = {2012-02-22T00:00:00.000+0100},
+  title = {A Microtext Corpus for Persuasion Detection in Dialog.},
+  url = {http://dblp.uni-trier.de/db/conf/aaai/am2011.html#YoungMAOGG11},
+  volume = {WS-11-05},
+  year = 2011
+}
+
+Layout:
+
+The corpus is presented in four views containing essentially the same
+data.  If, by some chance, you discover discrepencies between the
+views, please contact the Point of Contact above.
+
+xls and xlsx:
+
+  Contains spreadsheet versions of the data presented in four
+  files with sheets for each transcript.
+
+original_csv:
+
+  Contains individual comma-delimited files for each transcript.  The filename identifies
+  the transcript source and transcript.
+
+  Each line contains 12 fields.  The first three lines contain metadata:
+
+  Line 1:  Field 11, Total persuasive posts in transcript including the
+                     "other" persuasion type. Derived from field 11 below.
+  Line 1:  Field 12, Total persuasive posts in transcript not including the 
+                     "other" persuasion type. Derived from field 12 below.
+  Line 2:  Ignore
+  Line 3:  12 Field Labels as follows:
+
+  Field 1:    POSTS, contains a ":" delimited entry with field one
+              identifying the speaker and field two giving the text of the post
+  Field 2-9:  Persuasion types.  One of:
+              OTHER, RECIPROCITY, COMMITMENT, CONSISTENCY, LIKING, SCARCITY, AUTHORITY, SOCIAL PROOF
+              Entries in column is empty if persuasion type is not
+              present in post and "1", otherwise
+  Field 10:   Additional Comments, text presenting additional comments from annotators
+  Field 11:   W/ Other, "1" if there is a "1" in any of fields 2-9, "0" otherwise
+  Field 12:   W/o Other, "1" if therse is a "1" in any of fields 3-9, "0" otherwise
+
+  Line 4-EOF: Post data as described by Line 3 above.
+                 
+processed_csv:
+  
+  Contains essentially the same data as the files in original_csv but
+  preprocessed for easier parsing.  
+
+
+  Layout is:
+  
+  Field 1:  Transcript name
+  Field 2:  Source line from transcript in original_csv directory
+  Field 3:  Type of persuasion present using following key:
+              0: No Persuasion Present
+              1: OTHER
+              2: RECIPROCITY
+              3: COMMITMENT
+              4: CONSISTENCY
+              5: LIKING
+              6: SCARCITY
+              7: AUTHORITY
+              8: SOCIAL PROOF
+  Field 4:  Speaker Identifier 
+  Field 5:  Text of post

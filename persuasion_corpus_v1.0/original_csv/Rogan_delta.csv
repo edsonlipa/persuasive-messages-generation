@@ -1,0 +1,670 @@
+,PERSUASION TAGS,,,,,,,,Total Persuasive,114,74
+,,,,,,,,,,Persasive?,
+,OTHER,RECIPROCITY,COMMITMENT,CONSITENCY,LIKING,SCARCITY,AUTHORITY,SOCIAL PROOF,Additional Comments,W/ Other,W/o Other
+"0001 ON80: . . . uh, can you pull up about that peak in the, uh, taxiway there and just hold your position?",,,,,,,,,,0,0
+0002 CH30: You bet. (pause)  ,,,,,,,,,,0,0
+"0003 ON80: Frontier, uh, 101, taxi straight ahead now.  (pause)  ",,,,,,,,,,0,0
+0004 CH30: 101 for taxi instructions.  ,,,,,,,,,,0,0
+"0005 ON80: Okay, uh, Frontier 101, continue to taxi and, uh, once you get on the ramp area, uh, stand by one.",,,,,,,,,,0,0
+"0006 CH30: Okay, we're rolling again. (pause)  ",,,,,,,,,,0,0
+0007 PN60: Ground control to 101. ,,,,,,,,,,0,0
+0008 CH30: 101.  ,,,,,,,,,,0,0
+0009 PN60: This is <PN60>. I understand you have a problem aboard. I'm here to see if I can help.,,,,,,,,,,0,0
+"0010 CH30: Okay. We sure do and, uh . . .  ",,,,,,,,,,0,0
+0011 HT01: [ ] FBI?  ,,,,,,,,,,0,0
+0012 CH30: You the FBI?  ,,,,,,,,,,0,0
+0013 PN60: That's affirmative.  ,,,,,,,,,,0,0
+"0014 CH30: Okay. At the present time, we're all alone in the cockpit seat. Tell us whatever you want to.",,,,,,,,,,0,0
+0015 PN60: 10-4. What's the situation there now?  ,,,,,,,,,,0,0
+"0016 CH30: Well, we've landed and taxied up here, and we haven't seen anything . . . (pause) Stand by.  ",,,,,,,,,,0,0
+"0017 ON80: Frontier, uh, 101, if able, stop squawk. ",,,,,,,,,,0,0
+"0018 CH30: Okay. (pause) . . .-O1, we got the, uh, gentleman up here if anybody wants to talk to him. You wanna talk to any of 'em? ",,,,,,,,,,0,0
+"0019 PN60: Ground control, this is <PN60> to the 101 flight. Uh, what are your problems?",,,,,,,,,,0,0
+"0020 CH30: Well, there's a man here with a gun, and he wants, uh, previous demands that were stated up there in Kansas City to be met. ",,,,,,,,,,0,0
+0021 PN60: Will he talk with us?  ,,,,,,,,,,0,0
+"0022 CH30: Yeah, he's listening.",,,,,,,,,,0,0
+"0023 PN60: Uh, ask him to repeat the demands to us, please. ",,,,,,,,,,0,0
+"0024 CH30: Okay, uh, this is the co-pilot. He told us before, and the demands were this. He wants, uh, a guy named <Prisoner Name> released. He's in the Portland County Jail, and, uh . . .  ",,,,,,,,,,0,0
+"0025 PN60: 101, could you put the individual making these requests on, please.  (pause)  ",,,,,,,,,,0,0
+"0026 CH30: He said . . . (pause) Yeah, he says he has nothing to say at this time.",,,,,,,,,,0,0
+"0027 PN60: Uh, need to talk about these demands.",,,,,,,,,,0,0
+"0028 CH30: Well, okay, he's, he's listening. ",,,,,,,,,,0,0
+0029 PN60: Continue to repeat the demands.  ,,,,,,,,,,0,0
+"0030 CH30: Okay, you got the, uh, <Prisoner Name> in the Portland County Jail. (pause) The, uh, $3,000,000.00 in 20s, 50s, and 100s, two parachutes, two machine guns and ammunition, and two 45 caliber pistols.  ",,,,,,,,,,0,0
+"0031 PN60: Do you realize that all of this has to be cleared through the FAA in Washington, the Department of Justice in Washington, and a number of other agencies, local and federal, before any action can be taken?  ",,,,,,,1,,bosses have to make that call,1,1
+0032 CH30: [?] he said well you better get on it.  ,,,,,,,,,,0,0
+"0033 PN60: 10-4. Uh, 'cause I, you have two stewardesses on the plane now? ",,,,,,,,,,0,0
+0034 CH30: Affirmative.  ,,,,,,,,,,0,0
+"0035 PN60: Uh, is there any way we could get those girls off? (pause)  ",,,,,,,,,,0,0
+"0036 CH30: Uh, he said negative.",,,,,,,,,,0,0
+0037 PN60: Is your individual there in need of anything? Is he okay?  ,,,,,,,,,,0,0
+"0038 CH30: He says he's okay and doesn't need anything. (pause) Oh, he, he needed, you got the, uh, request for those hamburgers for everybody, didn't you? Wendy's hamburgers.",,,,,,,,,,0,0
+0039 PN60: Negative on that. Will you repeat that?  ,,,,,,,,,,0,0
+"0040 CH30: Uh, he said he wanted some, uh, Wendy's hamburgers to be boarded, enough for everybody.",,,,,,,,,,0,0
+"0041 PN60: Ask him to make that request in person, please.",,,,,,,,,,0,0
+"0042 CH31: Uh, this is Captain <CAPT LAST NAME> Uh, uh, we would like to confirm that the, uh, FBI contacted you from Kansas City. We spent an hour or so in Kansas City, and these requests and, have been made, uh, back then. Uh, have you, uh, been in contact with the FBI in Kansas City?",,,,,,,,,,0,0
+"0043 PN60: . . .-4. We have, uh, discussed some of the problems, but we don't know the full extent of the problem, and we're trying to ascertain it now so we can get necessary paperwork going to get the clearances needed.  ",,,,,,,,,,0,0
+"0044 CH31: The, um, um, the, the man on board, uh, is the boss and, uh, in order to keep everybody, uh, healthy, well, we are, uh, going to meet his demands, requests. ",,,,,,,,,,0,0
+0045 PN60: We'd sure like to talk to the boss.  ,,,,,1,,,,"compliment: he knows the hostage taker is listening and calls him ""the boss""",1,1
+"0046 CH31: I'm the boss right now, uh, as far as the airplane is concerned, and, uh, you can relay through us. And he's standing right here.",,,,,,,,,,0,0
+0047 PN60: Will he take the <HT01 First Name> and talk with me? (pause)  ,,,,,,,,,,0,0
+0048 CH31: What's your name? ,,,,,,,,,,0,0
+0049 PN60: <PN60>.  ,,,,,,,,,,0,0
+"0050 CH31: Okay, Mr. <PN60 Last Name>, uh, in just a second here, uh, he'll be able to talk with you. (pause) This man's name is <HT01>. Uh, he can't hear me right now.",,,,,,,,,,0,0
+0051 PN60: 10-4. (pause) . . . you still read us? ,,,,,,,,,,0,0
+0052 CH31: 10-4. Read you loud and clear.  ,,,,,,,,,,0,0
+"0053 PN60: Okay, now you, now you can read, okay? (pause) Uh, the boss there, <HT01 First Name>, uh, this is <PN60>. Uh, you made a request for some hamburgers? ",,,,,1,,,,the boss,1,1
+"0054 HT01: Yes, sir.",,,,,,,,,,0,0
+"0055 PN60: Uh, I didn't get that request. Uh, could you repeat it for us, please? (pause)  ",,,,,,,,,,0,0
+0056 HT01: Enough hamburgers for everyone on board. ,,,,,,,,,,0,0
+0057 PN60: How many people are on board?  (pause),,,,,,,,,,0,0
+0058 HT01: Sixteen.  ,,,,,,,,,,0,0
+0059 PN60: Are you okay? Everything going well? ,,,,,,,,,,0,0
+0060 HT01: So far.  ,,,,,,,,,,0,0
+0061 PN60: Okay. Everybody else on the plane all right? ,,,,,,,,,,0,0
+0062 HT01: Seem to be.  ,,,,,,,,,,0,0
+0063 PN60: 10-4. What do you want on those hamburgers? ,,,,,,,,,,0,0
+0064 HT01: Everything.  ,,,,,,,,,,0,0
+"0065 PN60: There anything else you want? (pause) <HT01 First Name>, you, uh, need anything else foodwise?",,,,,,,,,,0,0
+"0066 CH30: [ ] this is the co-pilot. He said that he wants me to talk with . . . hamburgers for everybody with everything on it and [ ] of milkshakes, too. I think everybody'd go for that.  And fries for everybody.",,,,,,,,,,0,0
+"0067 PN60: I'd like to talk to <HT01 First Name> there. I need to talk to <HT01 First Name> 'cause we need to talk about these problems we're having. We need to, uh, be able to communicate together.",1,,,,,,,,reason,1,0
+"0068 HT01: What was your name, sir? ",,,,,,,,,,0,0
+0069 PN60: <PN60>.  ,,,,,,,,,,0,0
+"0070 HT01: What is happening with, uh, Mr. <Prisoner Last Name>?",,,,,,,,,,0,0
+"0071 PN60: Uh, let's get the food order squared away here.",,,,,,,,,,0,0
+0072 HT01: I want him to bring the food to the plane.  ,,,,,,,,,,0,0
+"0073 PN60: It'll take quite awhile because we have to go through numerous agencies in government to get any kind of clearance along those lines at all, and it's almost impossible to do that. ",,,,,,,1,,agencies have the authority,1,1
+0074 HT01: I don't like that game you're playing.  ,,,,,,,,,,0,0
+"0075 PN60: It's not a game we're playing. It's just that we, we have to go through all the, uh, agencies and, and what not. It takes time.  We can't do it right now, but it'll take time.",1,,,,,,,,reason,1,0
+0076 HT01: How much time you talking about?  ,,,,,,,,,,0,0
+"0077 PN60: We don't know, but, uh, let's get the food order squared away. How 'bout if you let the stewardess off, uh, to get the food, and, uh, she, and then we'll let somebody bring the food up to the plane?",,,1,,,,,,stewardesses for food,1,1
+"0078 HT01: . . . the food, uh, 'til Mr. <Prisoner Last Name> gets here.",,,,,,,,,,0,0
+0079 PN60: . . . want the food until <Prisoner Last Name> gets there? ,,,,,,,,,,0,0
+0080 HT01: Should be able to bring him and the food real shortly. ,,,,,,,,,,0,0
+0081 PN60: We're working on the food right now. Uh. . . ,,,,,,,,,,0,0
+0082 HT01: I don't know whether or not he wants to come here or not. I just wanna talk to him.,,,,,,,,,,0,0
+"0083 PN60: . . . question. He's got to, uh, wanna come. We couldn't force him if he didn't want to. (pause) We're contacting him now in an effort to see what his feelings are. Still with me, <HT01 First Name>?",1,,,,,,,,reason,1,0
+"0084 HT01: Yeah, I'm still here.",,,,,,,,,,0,0
+"0085 PN60: Tell you what. Why don't we get the food into you, and you let the two stewardesses go, and we will, uh, continue things from there. How's that?",,,1,,,,,,stewardesses for food,1,1
+0086 HT01: Stewardesses stay.  ,,,,,,,,,,0,0
+"0087 PN60: <HT01 First Name>, it's gonna take some time, uh, to get, uh, <Prisoner Last Name> lined up, but, uh, can you bear with us a little while? (pause) <HT01 First Name>, you still with me?  ",,,1,,,,,,can we have more time,1,1
+"0088 HT01: Yes, sir, I'm still with you.",,,,,,,,,,0,0
+"0089 PN60: Okay, uh, we're gonna, what do you want, one hamburger per person, or two, or what?",,,,,,,,,,0,0
+0090 HT01: Why don't you make it two.  ,,,,,,,,,,0,0
+0091 PN60: You want a double or a single? ,,,,,,,,,,0,0
+0092 HT01: Double.  ,,,,,,,,,,0,0
+0093 PN60: With cheese?  ,,,,,,,,,,0,0
+0094 HT01: Cheese.,,,,,,,,,,0,0
+0095 PN60: Okay.  What flavor shakes do you want?,,,,,,,,,,0,0
+0096 HT01: Chocolate will be fine.  ,,,,,,,,,,0,0
+"0097 PN60: Okay.  Now we’re gonna get ‘em and bring ‘em to the plane.  How do you want ‘em?  (pause)  <HT01 First Name>, how are you gonna receive these, uh, this food?",,,,,,,,,,0,0
+"0098 HT01: Well, that’s a good question.  That’s why I thought, uh, uh, Mr. <Prisoner Last Name> could bring the food up here.  Be the easiest.",,,,,,,,,,0,0
+"0099 PN60: Well, I can check with the boss to see if he’ll approve of this and  get back with you in a few minutes.",,,,,,,1,,my boss makes that call,1,1
+0100 HT01: [?],,,,,,,,,,0,0
+"0101 PN60: 101, <HT01 First Name>. (pause) ",,,,,,,,,,0,0
+0102 CH30: Stand by one [ ],,,,,,,,,,0,0
+"0103 HT01: Yes, sir.",,,,,,,,,,0,0
+"0104 PN60: You with me, <HT01 First Name>?",,,,,,,,,,0,0
+"0105 HT01: Yes, sir.",,,,,,,,,,0,0
+"0106 PN60: Okay, now, how we gonna get the hamburgers out to the plane? ",,,,,,,,,,0,0
+"0107 HT01: As soon as you get, uh, Mr. <Prisoner Last Name> and bring him out here, and he can bring the hamburgers up to the plane, and I’ll speak with him and see how he feels about, uh, the situation and go from there.",,,1,,,,,,get me the food and the guy and we'll go from there,1,1
+"0108 PN60: Well, we’re going to get the hamburgers now, but we <PN60 First Name>’t know how we’re gonna get 'em out there 'cause <Prisoner Last Name> isn't available right now.",1,,,,,,,,reason,1,0
+"0109 HT01: Well, that's, uh, I asked about that from Kansas City, and, uh,  I've, you're delaying it.",,,,,,,,,,0,0
+"0110 PN60: Uh, we'll walk 'em out to the plane, but, uh, you're gonna have to figure someway of gettin' 'em inside. All right with you, <HT01 First Name>?",,,,,,,,,,0,0
+"0111 HT01: It shouldn't take more than a half hour to get <Prisoner Last Name> out here.  All tha-, all that's necessary is a little transportation.  (pause)  . . . not buying that paperwork.  ",,,,,,,,,,0,0
+"0112 PN60: Well, we'll get the hamburgers. Let me get that order in now and, uh, get the motion started on that.",,,,,,,,,,0,0
+0113 PN60: . . . to <HT01 First Name>. ,,,,,,,,,,0,0
+0114 HT01: Go ahead.  ,,,,,,,,,,0,0
+"0115 PN60: I forwarded your request to the boss, who's gonna let me know, uh, my boss what, when and if, uh, your demand will be met as far as the hamburgers are concerned.   (radio conversation in background)  ",,,,,,,1,,bosses making decisions,1,1
+0116 CH30: [ ] okay. We're just standing by for instructions.,,,,,,,,,,0,0
+"0117 PN60: [ ] see what, what Mr. <Prisoner Last Name> has to say, <HT01 First Name>, and, uh, see if he will, uh, talk to you.",,,,,,,,,,0,0
+"0118 HT01: Okay, you got it.",,,,,,,,,,0,0
+"0119 CH30: Uh, you know, all along here on 11835 still.  ",,,,,,,,,,0,0
+"0120 PN60: Okay, <HT01 First Name> there?",,,,,,,,,,0,0
+"0121 CH30: Yeah, here he comes.",,,,,,,,,,0,0
+"0122 PN60: Okay, I'd like to talk to <HT01 First Name>.  ",,,,,,,,,,0,0
+"0123 HT01: Yes, sir.",,,,,,,,,,0,0
+0124 PN60: Anybody want any coffee on that order?  ,,,,,,,,,,0,0
+"0125 HT01: Yeah, go ahead, we'll take coffee, too. You bet. ",,,,,,,,,,0,0
+"0126 PN60: 10-4, uh, got some official things here that we have to iron out,   uh, <HT01 First Name>. Uh, what is your relationship with <Prisoner Last Name>? (pause) Are you a relative?  ",,,,,,,,,,0,0
+0127 HT01: . . . second cousin.  ,,,,,,,,,,0,0
+0128 PN60: Do you think he's gonna wanna come with you?  ,,,,,,,,,,0,0
+0129 HT01: I just want to see the man and talk to him. That's his decision.  ,,,,,,,,,,0,0
+0130 PN60: What happens if he doesn't wanna talk to you?  ,,,,,,,,,,0,0
+"0131 HT01: Well, then we'll go from there. (pause) . . . at least wanna talk to me. [ ] I figure you can bring him out here and, uh, (pause) let me see him and let me talk with him and, uh, his decision, decision from there on, whether he wants to come along or not.",,,1,,,,,,here's the deal,1,1
+"0132 PN60: We're working on it, but we're concerned for the safety of everybody involved here, and we, we'd like to have some assurances of safety for our people out there.  ",1,,,,,,,,reason,1,0
+"0133 HT01: Well, as long as my demands are met, then, uh, your assurances are all right. (pause)  ",,,1,,,,,,here's the deal,1,1
+"0134 PN60: We're trying on that, <HT01 First Name>, but it's a long, hard, uh, chore to get all this through. (pause) Uh, one of the judges wants to know why are you doing this? (pause) . . . me, <HT01 First Name>?",,,,,,,1,,judges,1,1
+"0135 HT01: Sir, I'm still here. ",,,,,,,,,,0,0
+"0136 PN60: Uh, one of the officials wants to know why you're doing this.",,,,,,,1,,the bosses want to know why,1,1
+0137 HT01: I'm empty. (pause),,,,,,,,,,0,0
+0138 PN60: In what way is that? (pause),,,,,,,,,,0,0
+0139 HT01: This isn't the time and the place to talk about that. 10-4.,,,,,,,,,,0,0
+"0140 PN60: Okay, we're getting the hamburgers now. How do you want 'em delivered? (pause)",,,,,,,,,,0,0
+"0141 HT01: Uh, bring a vehicle out, and I'll have one of the stewar-, stewardesses come out and pick it up and bring it back on board. ",,,,,,,,,,0,0
+"0142 PN60: Okay, we've ordered 'em, and we got a car enroute to pick 'em up now, but how about, uh, doing us a favor now that we've don you a favor and let those two girls go? (pause) That sounds fair enough to you, doesn't it, <HT01 First Name>? You still with me, <HT01 First Name>? (pause) <HT01 First Name>, you got enough people out there without the two girls. Let's get the girls out of the way. [ ] idea sound fair enough to you? You still there, <HT01 First Name>?",,1,,,,,,,favor repayment,1,1
+0143 HT01: Those girls are needed. ,1,,,,,,,,reason why he won’t do that,1,0
+0144 PN60: Both of 'em?  ,,,,,,,,,,0,0
+"0145 HT01: Yes, sir.",,,,,,,,,,0,0
+"0146 PN60: How are they needed? You got, uh, other people there that you control. (pause) We gotta talk to a lot of people, and they want to know how you're cooperating, what, what the story is, and they're concerned for the safety of the people out there. ",1,,,,,,,,reason,1,0
+0147 HT01: So am I.  ,,,,,,,,,,0,0
+"0148 PN60: And they're concerned for your safety, also, and they just, they're interested in, in Mr. <Prisoner Last Name>'s safety, also, and . . .",1,,,,,,,,reason,1,0
+"0149 HT01: Well, I set forth some, uh, simple demands, and if they're met, then everyone will be, just fine and dandy. But if you're gonna play games with me, then things are gonna come down to, uh, something.",1,,,,,,,,self-consitency,1,0
+"0150 PN60: We're not playing games, <HT01 First Name>. We're, we're trying to help everybody. We're just trying to help you, as well as the people on the plane. We're not playing games with anybody, don't, believe me.",1,,,,,,,,trust (believe me),1,0
+"0151 PN60: . . . cigarettes on the plane, <HT01 First Name>? (pause) You still there,  <HT01 First Name>?",,,,,,,,,,0,0
+"0152 HT01: Yes, I'm still here.",,,,,,,,,,0,0
+"0153 PN60: [ ] sound fair enough to you that, uh, that the girls should get out of the way? (pause)  ",,,1,,,,,,let the girls go (fair enough),1,1
+0154 HT01: They'll be all right.  ,,,,,,,,,,0,0
+"0155 PN60: Uh, how 'bout cigarettes? You want any cigarettes? ",,,,,,,,,,0,0
+0156 HT01: [ ] can bring some cigarettes.  ,,,,,,,,,,0,0
+"0157 PN60: 10-4. We'll try to get it out to you, and we're gonna bring it out . . . a good faith, uh, act on your part, uh, and then they're gonna, then they'll be in a better position to evaluate,  uh, your demands.",,,1,,,,,,good faith,1,1
+"0158 HT01: . . . already show 'em my good faith act, and, uh, (pause) go from there.",,,,,,,,,,0,0
+"0159 PN60: <HT01 First Name>, you've been at the university for a number of years. You  know, uh, [ ] educate. You know what the, what the story is. When people start making decisions, you gotta be reasonable in the matter. We're trying to be reasonable with you. We're interested in your safety and the safety of everybody concerned. Trying to help you and help the people and, and get this matter cleared up without anybody getting hurt.  ",1,,,,,,,,reason,1,0
+0160 HT01: 10-4.  ,,,,,,,,,,0,0
+"0161 PN60: Uh, so, I'm in. a position that I gotta tell the boss, give you, give him an answer as to whether, uh, you're going to consider [ ] letting the girls go. How do we know that the person delivering the food's going to be safe?  (pause)  [ ] be assured the person bringing the food out to the plane is safe?",,,,,,,1,,boss needs an answer,1,1
+"0162 HT01: You aren't, I guess.",,,,,,,,,,0,0
+"0163 PN60: No, we're not, and, uh, we need some sort of an assurance on that.",,,,,,,,,,0,0
+0164 HT01: [ ] the person bringing the food out will be safe.,,,,,,,,,,0,0
+"0165 PN60: Well, we'll worry about that when we get to that position there. How are the, who are the Corn Huskers playing, uh, Saturday?",,,,,,,,,,0,0
+0166 HT01: Colorado.,,,,,,,,,,0,0
+0167 PN60: That's a real tough school. Did you go in Lincoln? ,,,,,,,,,,0,0
+0168 CH30: He walked in the back now.,,,,,,,,,,0,0
+0169 PN60: How's he seem?,,,,,,,,,,0,0
+"0170 CH30: Oh, he seems calm. He's looking out the back of the airplane towards the back. He's in the back, looking in the back galley.",,,,,,,,,,0,0
+"0171 PN60: 10-4. We'd like to keep him talking on the, uh, radio as much as possible, and if we ask a question, we'd like to have him answer it, if possible.",,,,,,,,,,0,0
+"0172 CH30: Okay. We'll, we'll put him back on when he comes back up here.",,,,,,,,,,0,0
+0173 PN60: 10-4. Is he still armed? (pause)  ,,,,,,,,,,0,0
+0174 CH30: Affirmative.  ,,,,,,,,,,0,0
+"0175 PN60: Okay, we're working on the food angle now. We would like to get the girls out if possible.",,,,,,,,,,0,0
+"0176 HT01: Need the girls here to, uh, do stewardess work.",,,,,,,,,,0,0
+"0177 PN60: Okay. Uh, I hear you, <HT01 First Name>. I hear you on that and, uh, but, uh, I always kinda like to feel women are a little something special, and I like to keep 'em out of, uh, situations like this. They get a little nervous.",,,,,,,,1,generalization of women (they are special),1,1
+0178 HT01: They're fine.  ,,,,,,,,,,0,0
+"0179 PN60: The guy up to the food shop, he's ordering it now. It was right in the middle of lunch hour, so they had to, uh, stop things and get the order together, but you'll have it, have it in a little while. (pause) <HT01 First Name>, you there? <HT01 First Name>, you still with me?",,,,,,,,,,0,0
+"0180 CH32: This is one of the flight attendants, and I have a little girl that's, uh, four years old, and she's in nursery school, and I was just wondering if someone could be sure and contact so that she'll be okay.  ",,,,,,,,,,0,0
+0181 PN60: 10-4. Give me the name of the nursery school. ,,,,,,,,,,0,0
+"0182 CH32: The nursery school is called, uh, <Nursery School Name>. It's in Denver.",,,,,,,,,,0,0
+0183 PN60: Now would you have the phone number on it? ,,,,,,,,,,0,0
+"0184 CH32: Uh, no, I don't.",,,,,,,,,,0,0
+0185 PN60: And what is your name?  ,,,,,,,,,,0,0
+0186 CH32: <CH32>. <Spells last name>.  ,,,,,,,,,,0,0
+"0187 PN60: And what's your little girl's name, <CH32 First Name>?",,,,,,,,,,0,0
+0188 CH32: -que.  ,,,,,,,,,,0,0
+"0189 PN60: What's your little girl's name, <CH32 First Name>?  ",,,,,,,,,,0,0
+0190 CH32: <CH32's child's first name>. <spells name>,,,,,,,,,,0,0
+"0192 PN60: 10-4. We'll get somebody to call Denver and make sure their, uh, call the center.",,,,,,,,,,0,0
+0193 CH32: Thank you.  ,,,,,,,,,,0,0
+0194 PN60: . . . control to <HT01 First Name>. ,,,,,,,,,,0,0
+0195 HTO1: Hello.  ,,,,,,,,,,0,0
+"0196 PN60: We're, we're trying to get things together here. We got the, uh, fellow from the hamburger place. He should have 'em down to you in a few minutes, so just relax. Everything's all right.",,,,,,,,,,0,0
+0197 PN60: . . .-trol to <HT01 First Name>. ,,,,,,,,,,0,0
+0198 HTO1: 10-4.  ,,,,,,,,,,0,0
+"0199 PN60: Uh, you hear <CH32 First Name> talking about her little girl?",,,,,,,,,,0,0
+"0200 HTO1: Yes, sir.",,,,,,,,,,0,0
+0201 PN60: don't you think <CH32 First Name> should make that call herself? ,1,,,,,,,,mother-daughter appeal,1,0
+0202 HTO1: She's fine right now.  ,,,,,,,,,,0,0
+"0203 PN60: Yeah, she's fine, but the little girl may be a little bit apprehensive if her mother isn't there. (pause) Think it'd be good if <CH32 First Name> could call, uh, herself on the phone. Talk with her daughter. ",1,,,,,,,,reason,1,0
+"0204 HTO1: Well, if you can get Mr. <Prisoner Last Name> out here, then we'd be able to talk a little bit.",,,1,,,,,,here's the deal,1,1
+"0205 CH30: Just relaying it all. He can hear us from, uh, his position by the door.",,,,,,,,,,0,0
+"0206 PN60: 10-4. Just tell him that we got the hamburgers enroute, and they should be here in a little while.",,,,,,,,,,0,0
+0207 CH30: . . . you.  ,,,,,,,,,,0,0
+"0208 CH31: Uh, this is the captain, and <HT01 First Name> has just, uh, advised us that, uh, . . or the authorities don't do anything foolish, he has promised us that he will not do anything foolish.",,,1,,,,,,nobody do anything foolish,1,1
+"0209 PN60: 101, repeat your transmission, please.",,,,,,,,,,0,0
+"0210 CH31: <HT01 First Name>, uh, just said to us that, uh, as long as the authorities do not do anything foolish, he will not do anything foolish.",,,1,,,,,,nobody do anything foolish,1,1
+"0211 PN60: 10-4. We are in that position now that we're not, uh, about to do anything to disturb, uh, the situation or to do anything that would cause <HT01 First Name> to do anything.",,,,,,,,,,0,0
+"0212 CH31: He appreciates that, and so do we.",,,,,,,,,,0,0
+"0213 PN60: 10-4. Uh, we appreciate the, uh, way things are going, and we will do what we can and work it out. If <HT01 First Name>'s there, ask him about, uh, <CH32>'s little girl. I think maybe that <CH32 First Name> should call the little girl direct. The child could be very much upset, uh, about her mother.  ",1,,,,,,,,reason,1,0
+"0214 HTO1: Soon as I see Mr. <Prisoner Last Name>, then we'll go from there.",,,1,,,,,,here's the deal,1,1
+"0215 PN60: Uh, <HT01 First Name>, we're very much concerned for, of course, everybody's safety, and that's what our prime objective is, safety and, uh, . . . work things out from there. By everybody I mean you, as well as the passengers and crew. (pause) Ground control to <HT01 First Name>.  ",1,,,,,,,,reason,1,0
+"0216 HT01: Go ahead, sir.",,,,,,,,,,0,0
+0217 PN60: How do you like the weather here in Atlanta? Pretty nice isn't it this time of year?,,,,,,,,,,0,0
+"0218 HT01: Yes, sir.",,,,,,,,,,0,0
+0219 PN60: How was the weather out in Omaha?,,,,,,,,,,0,0
+0220 HT01: It was pleasant.,,,,,,,,,,0,0
+"0221 PN60: I thought it was supposed to be cold out there this time of year.  Spent some time out in California, didn't you, <HT01 First Name>? (pause) You with me, <HT01 First Name>? (pause) Ground control to 101. Ground control to  101. ",,,,,,,,,,0,0
+0222 CH31: We're here.,,,,,,,,,,0,0
+0223 PN60: Everything all right?,,,,,,,,,,0,0
+"0224 CH31: Oh, yes, yeah. He's keeping his promise.",,,,,,,,,,0,0
+"0225 PN60: Good, good. We'll live up to our end of it. (pause) Ask him if the weather here is as nice as California.",,,,,,,,,,0,0
+0226 CH31: It's better. ,,,,,,,,,,0,0
+0227 PN60: I like it. (pause)  ,,,,,,,,,,0,0
+"0228 CH32: This is <CH32> again. Uh, <HT01 First Name> has just told me that if, uh, <Prisoner Last Name> is brought out, he will let me, uh, go.",,,1,,,,,,new deal; stewardess for prisoner,1,1
+"0229 PN60: 10-4. We're, the food is enroute. We should be there in a little while.",,,,,,,,,,0,0
+"0230 CH32: He says not food, <Prisoner Last Name>.",,,,,,,,,,0,0
+"0231 PN60: Repeat, <CH32 First Name>.",,,,,,,,,,0,0
+"0232 CH32: Uh, he's not saying food. He's saying it's <Prisoner Last Name>. [ ] he can talk to him, then he will release me.",,,1,,,,,,new deal; stewardess for prisoner,1,1
+"0233 PN60: 10-4, <CH32 First Name>. We hear you on that, and, of course, we're, we're checking on it, but it's going to take some doing to get <Prisoner Last Name>  out.",,,,,,,,,,0,0
+"0234 CH32: Okay, thank you.(pause)  ",,,,,,,,,,0,0
+0235 PN60: Ground control to <CH32 First Name>. (pause)  ,,,,,,,,,,0,0
+0236 CH32: Yes.  ,,,,,,,,,,0,0
+"0237 PN60: We put the call through to Denver, and our Denver office is calling  the, uh, center there [ ]",,,,,,,,,,0,0
+"0238 CH32: Okay, thank you.",,,,,,,,,,0,0
+"0239 PN60: Is there someone else that can pick your daughter up, uh, [ ] or something?",,,,,,,,,,0,0
+"0240 CH32: Well, my husband was killed in a car accident last year, so it's  just the two of us. There are, uh, relatives that, that may be able to, to pick her up.",,,,,,,,,,0,0
+0241 PN60: Can you give me a phone number we can call?  ,,,,,,,,,,0,0
+"0242 CH32: <num>- (pause) Just a minute. <num>. (pause) Ask for, uh, Mrs. <Female Last Name>, <spells female last name>.",,,,,,,,,,0,0
+"0243 HT01: . . . if he wants to stay, that's his decision, and, if not, then  he'll leave. That's, I just need to talk with someone [ ]",,,,,,,,,,0,0
+"0244 PN60: [ ] he decides he doesn't wanna go with you, he doesn't want to come out to the airport. What'll we do then?",,,,,,,,,,0,0
+0245 HT01: I don't see any reason why he wouldn't want to come out to the airport.,,,,,,,,,,0,0
+"0246 PN60: Maybe he thinks things are better off the way they are. Maybe he doesn't want to get into, uh, any more involvement.",,,,,,,,,,0,0
+"0247 HT01: Well, he's not. He won't be involved if he doesn't want to be involved. I'll just speak with him is all. ",,,,,,,,,,0,0
+"0248 PN60: Well, we're asking, I'm asking you what's going to happen if he says no. Are my passengers gonna be hurt?",,,,,,,,,,0,0
+"0249 HTO1: . . . be a decision I'll make in the future, uh,",,,,,,,,,,0,0
+"0250 PN60: We gotta know what your decisions are going to be in order to make our decisions. I gotta look at the alternatives as, as to what's going on, what could happen, and, uh, we don't want anybody hurt, and, uh, including you, <Prisoner Last Name>, the crew, and the passengers.",1,,,,,,,,reason,1,0
+0251 HTO1: That's sound thinking. . . . demands are simple.  ,,,,,,,,,,0,0
+"0252 PN60: I can get you your first demand, the food, with no problem at all, but I'm gonna have to have, uh, something in return for it to show, to show good faith upon your part.  ",,1,,,,,,,favor repayment,1,1
+"0253 HTO1: The food wasn't one of my demands, sir. It was just, uh, out of  consideration for everyone, uh, needed some food. The demands were number one, starts with . . . able to talk with Mr. <Prisoner Last Name>.",,,,,,,,,,0,0
+"0254 PN60: [ ] the matter to the satisfaction of everybody concerned.  (pause)  [ ] is coming into the airport in a few minutes and, uh, would be out there, but, uh, we also have a concern for safety of the people that, that are bringing it out. Tell me, uh, what assurance I have that they won't be hurt.  ",,,,,,,,,,0,0
+"0255 CH31: This is the captain, and there wouldn't be any problem there. (background conversation)  ",,,,,,,,,,0,0
+0256 PN60: Ground control to 101. ,,,,,,,,,,0,0
+0257 HTO1: Go ahead.  ,,,,,,,,,,0,0
+"0258 PN60: Uh, <HT01 First Name>, uh, the food's in there. They're, uh, looking to bring it out to you. They, uh, say it's in large bags.  They'd just rather [ ] have the stewardess come down and pick it up and take back in if you want or bring it to you. They don't like the idea of passing it through the window. (pause)  Do you read, <HT01 First Name>? (pause)  Ground control to <HT01 First Name>.  ",,,,,,,,,,0,0
+"0259 HT01: Yes, sir. ",,,,,,,,,,0,0
+"0260 PN60: The food is, uh, ready. The people bringing it out don't like the idea of having to get up on a ladder to pass it through the window. Uh, they'd prefer to have the stewardess come out for it or to, uh, bring it up to the stewardess at the door. ",,,,,,,,,,0,0
+0261 HTOI: [ ] be all right.  ,,,,,,,,,,0,0
+"0262 PN60: <HT01 First Name>, you got all the trump cards. Uh, we're not gonna do  anything. Uh, just, uh, uh, the girl will come out and pick it up and go right back in. We're gonna let her come back. We won't interfere with her at all. And, or would attempt any, uh, thing funny. We're going to do, play it straight.",1,,,,,,,,reason,1,0
+0263 HTO1: Did you hear me?  ,,,,,,,,,,0,0
+0264 PN60: Negative on that. Repeat.  ,,,,,,,,,,0,0
+0265 HTO1: [ ] will be just all right.  ,,,,,,,,,,0,0
+"0266 PN60: 10-4. I'll tell 'em. I don't know whether they'll, they'll wanna come out that way or not, but I'll pass the word to 'em. . . send a vehicle out. It'll pass the plane. They'll pick up the food at the building there, bring it back out to the plane. (radio cutting out)  ",,,,,,,,,,0,0
+0267 CH30: You hear that?,,,,,,,,,,0,0
+"0268 PN60: 101 to <HT01 First Name>. Correction, ground control to <HT01 First Name>.",,,,,,,,,,0,0
+0269 CH30: . . . he can hear.,,,,,,,,,,0,0
+"0270 PN60: Tell <HT01 First Name> we're getting the truck, uh, the food will be out, that,  uh, we would like to have <CH32 First Name> sent out, and we'll deliver the food.",,,1,,,,,,how about this deal,1,1
+"0271 HTO1: [ ] through the window. Uh, what about my demands?",,,,,,,,,,0,0
+"0272 PN60: They're being considered at higher [ ] levels. I have no control over that, but they are being considered. (pause) . . . and it would go. We'd like to have, uh, <CH32 First Name> out, uh, and, uh,  . . . deliver the food. (pause)",,,,,,,1,,bosses considering,1,1
+"0273 HT01: [ ] takes two to tango. You cooperate with me, and I'll cooperate with you.",,,1,,,,,,two to tango,1,1
+"0274 PN60: Okay, we'll bring the food out, and you'll let <CH32 First Name> go, right?",,,1,,,,,,new deal: stewardess for food,1,1
+"0275 HT01: No, I said, uh, bring Mr. <Prisoner Last Name> out, and I'll let <CH32 First Name> go.",,,,1,,,,,remember our deal,1,1
+"0276 PN60: Gotta take one step at a time, <HT01 First Name>, one step at a time. Let's, let's go for just one step and then, then we'll, we'll talk about step two.",1,,,,,,,,reason,1,0
+0277 HT01: We can get along without the food. (big pause) ,,,,,,,,,,0,0
+"0278 PN60: [ ] uh, force you. We're just trying to make this thing as easy on everybody as possible, but we do feel that <CH32 First Name> with her little girl out in Denver, you heard her husband was killed in an accident. That little child has just one parent, and we want to get that girl out of there.",1,,,,,,,,reason,1,0
+"0279 HT01: I understand all that, and, uh, (pause) I feel that (pause) well, we talked about this earlier. Uh, there's no use changing, uh, changing the story now.",,,,1,,,,,remember the deal,1,1
+"0280 PN60: Come on, now we got to change a little bit every day. We have to change and, and cooperate and show our cooperation. Uh, before when we talked, we didn't know <CH32 First Name>'s husband was deceased. We didn't know the little girl only had one parent that she is depending upon, and, uh, the little girl needs her mother, and certainly, uh, we want to help the little girl. We want to help you. We want to help everybody, but right now we feel that that's the prime thing on the whole, the whole thing is whether you're gonna cooperate with us in that one little request.",1,,,,,,,,reason,1,0
+"0281 HT01: Well, sir, I agree, and that's more reason why you should, uh, speed up your processing.  ",,,,,,,,,,0,0
+"0282 PN60: Well, that's, that's probably true that we should speed it up, but,  uh, government red tape being such as it is, we have to go at a Certain pace. We can't just flick a switch from on to off. It has to go at a certain pace. You know that, and I know that, and, uh, we are concerned about, uh, <CH32 First Name>'s little girl primarily.  We're not, I think <CH32 First Name>'s safe, but the poor little child, uh, needs to talk with her mother and needs to be . . .  ",1,,,,,,2,,other: reasons; authority: there's red tape with the bosses,1,1
+"0283 HT01: . . . Kansas City, and right now I'm in a position where . . . to you. I'm just going to wait, and if you're not going to cooperate with me, then I, things are going to come down to a deadline. ",,,,,,1,,,deadline,1,1
+"0284 PN60: We're working with you. We're trying, uh, to wor-, to iron this thing out so everybody comes out of it, uh, in relatively good shape with nobody getting hurt. This is what we want, and we're trying to work with you. We're trying to put your requests to the people that, that can make the dec- . . . what we're interested in.",,,,,,,1,,decision makers,1,1
+0285 HT01: [ ] cooperating.,,,,,,,,,,0,0
+"0286 PN60: Well, you can take one st-, one little step and, and let <CH32 First Name> go and, and, uh, then, then sh-, then we'll move on to the next, uh, request that you have. (radio cutting out) ",,,,,,,,,,0,0
+"0287 PN60: Go ahead, <HT01 First Name>.",,,,,,,,,,0,0
+"0288 HT01: I said it's your step to take, not mine.",,,,,,,,,,0,0
+"0289 PN60: We're looking to you to, for a good sign of a good gesture on your part. Something that will show cooperation on your part, to show that, uh, you earnestly, uh, mean what you say.",1,,,,,,,,reason: do this to show us you mean what you say,1,0
+"0290 HT01: Well, I have probably just as much concern for that young girl as you do, and possibly more, and that is more of a reason why you should speed things up.  ",,,,,,,,,,0,0
+"0291 PN60: I'm not in a position to speed things up. I would if I could, but, uh, I can't move Washington. You know. You've been in the army. You know the bureaucratic ways that the bureaus up there go  through, and we have to live with that now. Uh, I can't control that, but you can control the situation that we're talking about.",,,,,,,1,,bureacracy,1,1
+"0292 HT01: No, I'm not in control of the situation. As far as the paperwork, uh, in certain circumstances, you wou-, you know as well as I do that things can be don if the right people tell those people to do  it, and you're just stalling for time.",,,,,,,,,,0,0
+"0293 PN60: Okay, the truck should be ready. I think I see it pulling up over there now to load the food. It should be out that way in a few  minutes, but, uh, they're gonna want <CH32 First Name> to come out before they deliver it, I believe.",,,,,,,,,,0,0
+0294 HT01: . . . can't work that way.  ,,,,,,,,,,0,0
+"0295 PN60: I tell you, it's, uh, I think, uh, you're wrong there, <HT01 First Name>. I think the, the, uh, I think you showed a sign of weakness, but actually it's a sign of strength when you were able to show that you got compassion for people and, uh, the honest, sincere belief that, uh, uh, you wanna do good, and you can make a good, good showing there by making the first step here.  ",,,,,1,,,,compliment,1,1
+0296 HT01: I'm not here to make a good showing.  ,,,,,,,,,,0,0
+"0297 PN60: You gotta, we gotta convince those people that, uh . . . (pause)  ",,,,,,,,,,0,0
+0298 PN60: . . . control to Frontier 101. (radio cutting out)  ,,,,,,,,,,0,0
+0299 PN60: The unit's there. They're putting the ladder up now. They should be passing the food now. (muffled conversation)  ,,,,,,,,,,0,0
+0300 PN60: . . . control to <HT01 First Name>.  (pause)  Ground control to <HT01 First Name>. (pause)  Ground control to 101. (radio cutting in and out)  ,,,,,,,,,,0,0
+0301 PN60: Ground control to <HT01 First Name>.  ,,,,,,,,,,0,0
+"0302 CH31: This is captain. Uh, go ahead.",,,,,,,,,,0,0
+0303 PN60: <HT01 First Name> there?  ,,,,,,,,,,0,0
+0304 CH31: He can hear.  ,,,,,,,,,,0,0
+0305 PN60: Ask him if everything's all right. I'd like to talk to him. ,,,,,,,,,,0,0
+0306 CH31: Chowin' down.  ,,,,,,,,,,0,0
+"0307 PN60: Okay, I'll hear from him when he gets don chowin' down.",,,,,,,,,,0,0
+0308 CH31: Thank you. (pause)  ,,,,,,,,,,0,0
+0309 PN60: Here's ground control. Go ahead. ,,,,,,,,,,0,0
+0310 CH31: Can't hear me now.  (radio cutting in and out)  ,,,,,,,,,,0,0
+0311 PN60: Ground control. Go ahead.,,,,,,,,,,0,0
+0312 CH31: Heard from Denver?,,,,,,,,,,0,0
+"0313 PN60: Repeat, please.",,,,,,,,,,0,0
+0314 CH31: Did Frontier people arrive from Denver?  <There's a big area here where the tape sounds like it's on the wrong speed.>,,,,,,,,,,0,0
+"0315 PN60: . . . given us an answer on, uh, what's your reaction going to be if <Prisoner Last Name> doesn't wanna go. (pause) I'll have to pass that word up the . . . [ ] and that everything will work out.  <This is another area where the tape is on the wrong speed.>",,,,,,,,,,0,0
+"0316 HT01: I don't know. Uh, some people . . .",,,,,,,,,,0,0
+0317 PN60: Does he have the weapon in his hands?,,,,,,,,,,0,0
+0318 CH30: Affirmative. At all times.,,,,,,,,,,0,0
+0319 PN60: Ground control to <HT01 First Name>.,,,,,,,,,,0,0
+"0320 CH30: Uh, he's walking to the back and looking out the windows now. uh, . . . can't hear you.",,,,,,,,,,0,0
+0321 PN60: 10-4. Think it's relatively calm out there?,,,,,,,,,,0,0
+"0322 CH30: Yeah, real calm.",,,,,,,,,,0,0
+"0323 PN60: 10-4. . . . back up, uh, tell him to give me a call.",,,,,,,,,,0,0
+"0324 CH30: Okay, and we'll do it. (pause)  ",,,,,,,,,,0,0
+"0325 HT01: Yes, sir.(pause)  ",,,,,,,,,,0,0
+0326 CH30: [ ] he's back here if you wanna talk to him again. ,,,,,,,,,,0,0
+0327 PN60: This is ground control. Go ahead.  ,,,,,,,,,,0,0
+"0328 CH30: You said, uh, call me when he comes back up here. He's ready to talk to you.",,,,,,,,,,0,0
+"0329 PN60: Hey, <HT01 First Name>, you there? ",,,,,,,,,,0,0
+"0330 HT01: Yes, sir.",,,,,,,,,,0,0
+"0331 PN60: How many packs of cigarettes do you want? . . . he refuses to come or to talk with you? Can you answer that question for me, <HT01 First Name>? ",,,,,,,,,,0,0
+"0332 HT01: Yes, sir.",,,,,,,,,,0,0
+"0333 PN60: Well, we need an answer before, before we can make a decision. And, uh, it's, it's essential for us in, in our decision making,  uh, [ ] that they know what your plans are, what your  alternatives are, and what you're going to do. Uh, that's very, very important, <HT01 First Name>, so, uh, how 'bout giving me an answer on it 'cause you, you certainly have, uh, plans and alternatives.",1,,,,,,,,reason,1,0
+"0334 HT01: As soon as you start cooperating with me, then [ ] get this show on the road.",,,1,,,,,,here's the deal,1,1
+"0335 PN60: We're cooperating in every manner possible, <HT01 First Name>. We're doing everything humanly possible, uh, to resolve this to the benefit of  everybody concerned so nobody gets hurt. That's the main thing. We don't want anybody hurt.  ",1,,,,,,,,reason,1,0
+"0336 HT01: That's what we're talking about, so let's, like I said before, it's imperative that you . . . things going because, uh, I'm in a position where I really don't have anything to lose.  ",1,,,,,,,,reason: nothing to lose,1,0
+"0337 PN60: They like you. They think you're a pretty nice guy, and they wanna talk to you and try to help you.",,,,,1,,,,compliment,1,1
+0338 HT01: There's no help needed.  ,,,,,,,,,,0,0
+"0339 PN60: . . . coming into Atlanta. Should be here in about an hour and a half, uh, if you'd.like to talk with him. We can put him on.",,,,,,,,,,0,0
+0340 HT01: [ ] demands?  ,,,,,,,,,,0,0
+"0341 PN60: We're working on 'em, we're working on 'em, trying to, to get, uh, necessary clearance, but you're making it difficult by not giving us the answers we need to have.  ",,,,,,,,,,0,0
+0342 HT01: . . . much time you talking about?  ,,,,,,,,,,0,0
+"0343 PN60: I have no idea how much time we're talking about. Uh, we're working on it. They're working on it. [ ] a number of different people have to cooperate in making the decision. Not one person can make it.  ",,,,,,,1,,lots of bosses have to make decisions,1,1
+0344 HT01: Seems to me to be a very simple request to start with to get <Prisoner Last Name> out here in exchange . . . lady so that the little girl'll be in good shape.  ,,,,,,,,,,0,0
+"0345 PN60: Look, uh, this thing is not all that bad. Your parents will be here in a little while and, uh, you can walk away with this, uh real easy like and, uh, get, get yourself squared away, and we  think, uh, what your parents think, and, and I agree with them that you're a pretty good fella, and you can, you can make something of yourself. It's never too late to, to, uh, start shaping up and,  and, uh, straighten it up and get, get moving in the right direction. You're at a crossroads now.  ",,,,,1,,,,compliment,1,1
+"0346 HT01: . . . wanna play God, that's their problem. ",,,,,,,,,,0,0
+"0347 PN60: [ ] people to die. Nobody's playing God. Uh, you're, you're, you're causing a lot of hurt to a lot of people like, uh <CH32 First Name>'s little girl out in Denver and <CH32 First Name> and the other  stewardess there and, and the passengers in the plane and their families. That's causing hurt, and, uh, I don't think you wanna do that.  ",1,,,,,,,,reasons,1,0
+"0348 HT01: You think my head's screwed around wrong and, uh, . . . can maybe say the same thing of you, but like I said before, this is, uh, bigger than both of us.  ",,,,,,,,,,0,0
+"0349 PN60: This is most important, <HT01 First Name>, and, and uh, I appreciate how you  feel, but I also appreciate how the passengers feel and how the pilot feels and, and the crew there and, and, uh, I'm concerned for them as well as for you. Uh, I don't wanna see anybody hurt or  anything. I couldn't, uh, I don't like to see pain and suffering. I like to see happiness and joy.",1,,,,,,,,reasons,1,0
+"0350 CH30: This is the co-pilot speaking, and, uh, just for my own personal and the captain, we'd like to know, uh, how deep <HT01 First Name> is in right now. I mean, uh, he hasn't broken any, uh, I mean what he’s done is unlawful, but, uh, you know, how bad is it for him right now? If he was to give it up right now.",,,,,,,,,,0,0
+"0351 PN60: At this time, uh, [ as ] regards to today's incident, no charges, no, have been filed on him at this time. Uh, would <HT01 First Name> like to talk to his lawyer?",,,,,,1,,,no charges filed yet,1,1
+0352 HT01: Which one?,,,,,,,,,,0,0
+0353 PN60: <HT01's Lawyer>.,,,,,,,,,,0,0
+"0354 HT01: Yes, I'll talk to Mr. <HT01's Lawyer's Last Name>.",,,,,,,,,,0,0
+"0355 PN60: 10-4. I don't know just where he is now. I'll try to get in touch with him, <HT01 First Name>, and, and, uh, bring him out here to talk to you. But the problem right now is not so large that it can't be  resolved, uh, to <HT01 First Name>'s satisfaction I think. Uh, can you hear me   <HT01 First Name>?",,,,,,,,,,0,0
+"0356 HT01: . . . sir. [ ] only spoke of freedom before, and (radio cutting out) (pause)",,,,,,,,,,0,0
+"0357 PN60: . . . cigarettes are on the way and, uh, the, as far as the fella in prison, that decision has to be made up the line. ",,,,,,,1,,bosses make that decision,1,1
+"0358 CH31: Uh, we'd sure like to have some, uh, relief there.",,,,,,,,,,0,0
+"0359 PN60: Uh, we're aware of, uh, your predicament and working every way we can to help.",,,,,,,,,,0,0
+0360 CH31: . . . -4. Off. (pause)  ,,,,,,,,,,0,0
+0361 ON80: Ground control to 101. ,,,,,,,,,,0,0
+0362 HT01: Go ahead.  ,,,,,,,,,,0,0
+0363 PN60: They should be approaching the plane there in just a few seconds. ,,,,,,,,,,0,0
+0364 HT01: Okay. We see 'em.  ,,,,,,,,,,0,0
+"0365 CH30: [ Okay,  ] he's in the back again now.",,,,,,,,,,0,0
+0366 PN60: [ ] The truck's coming on out. ,,,,,,,,,,0,0
+"0367 CH30: Okay. Uh, he's clear in the rearend of the airplane. You got any  ideas, we can be of help.",,,,,,,,,,0,0
+"0368 PN60: Uh, we're just trying to keep him cool, and we don't wanna get him alerted we're pushing too hard. Uh, you think he's getting too uptight, uh, try to come in and warn us.",,,,,,,,,,0,0
+"0369 CH30: Okay. If things really get tense, I'll turn this light off that's  on top of the airplane.  I'll tell him [ ] he's here now.  ",,,,,,,,,,0,0
+0370 PN60: 10-4.  (pause)  ,,,,,,,,,,0,0
+0371 PN60: . . . to <HT01 First Name>. (pause)  ,,,,,,,,,,0,0
+"0372 HT01: Yes, sir.",,,,,,,,,,0,0
+0373 PN60: Get the cigarettes all right? ,,,,,,,,,,0,0
+"0374 HT01: Yes, sir.  ",,,,,,,,,,0,0
+0375 PN60: Everybody's feeling all right out there? ,,,,,,,,,,0,0
+0376 HT01: . . . to be.  ,,,,,,,,,,0,0
+0377 PN60: Your lawyer's enroute. Should be here in about 15 minutes. ,,,,,,,,,,0,0
+0378 HT01: I'm setting a 5:00 deadline.  ,,,,,,1,,,deadline,1,1
+"0379 PN60: Uh, <HT01 First Name>, we can't, uh, be sure that we're gonna have all of the answers by 5:00. Uh, let's not set a deadline on it. L-let's, uh, play it by ear and see how things go. We've play, tried to play it pretty straight with you, haven't . . . and, and it's not going to resolve the matter. We've got to find out primarily before we can get answers what your intentions are as far as what if <Prisoner Last Name> fails, goes with you, what if he refuses to go with you.",1,,,,,,,,reason,1,0
+"0380 HT01: . . . not the point either. The point is I've set some demands, and if they're not met, then the people are going to die.",,,,,,1,,,deadline,1,1
+"0381 PN60: Nobody has to die out here. We're just, just trying to, to work things out and get things resolved and, uh, set deadlines, and, uh, threatening people is not what we want right now. We need to, to be cooperative and talk about this thing and try to get, uh, the answers so these people can make the decisions.",,,,,,,1,,decision makers,1,1
+0382 HT01: . . . just about all we can talk.  ,,,,,,,,,,0,0
+"0383 PN60: Well, you're gonna talk to your attorney, aren't you?",,,,,,,,,,0,0
+0384 HT01: . . . with him.  ,,,,,,,,,,0,0
+"0385 PN60: He'll be here shortly, and your, your parents they're much concerned, and they're, they're interested in trying to help you and working with you, and your attorney wants to work with you, and we're willing to work with you. What more could you ask for? ",,,,,,,,,,0,0
+0386 HT01: . . . I'm asking for is the demands I set down. . . . can be expected.  ,,,,,,,,,,0,0
+"0387 ON81: Listen, I just got here and, uh, [ ] was up in Washington, D.C. He had to appear before a grand jury up there with another one of his clients, and I was up in, uh, one of the northern counties up in Georgia this morning myself, and as soon as we found  out that there was a, a situation going on down here, uh, we both got off what we were doing and came down specifically to, uh, address ourselves to this. Now <HT01's Lawyer's Middle Name> had a problem in that he couldn't get a commercial flight. He is coming down on a private plane, and I anticipate he will be here somewhere around a quarter after five or so. I cannot get him here any earlier, and there's a tremendous traffic jam out there. Just need some time to talk to you. Uh, if you've got any questions, the reason why I'm here is to answer 'em. Okay?  ",,,,,,,,,,0,0
+0388 HT01: We have nothing to talk about.  ,,,,,,,,,,0,0
+"0389 ON81: Why don't you just explain to me, uh, some of the things that, uh, are going on on the plane, about who's on there, if there's anybody that you know, uh, why don't you just explain to me, uh, how long the plane's been there 'cause I just got here, and these guys haven't even had a chance to, uh, sort of give me any briefing.",,,,,,,,,,0,0
+"0390 HT01: . . . been here two or three hours now, and, uh, I set forth some demands, and they're stalling. . . . think, uh, talking with me is going to accomplish something. ",,,,,,,,,,0,0
+"0391 ON81: All right, I'm not talking about the other air traffic controllers  and these other people up here. I'm talking about me and <HT01's Lawyer's Middle Name>. Now we've got different considerations than these other folks do. Obviously, anything that you tell us is a matter of confidence between you and us. I really wish that <HT01's Lawyer's Middle Name> had a chance to get down here. I do need some time, and I, like I've told you all  along, <HT01's Lawyer's Middle Name> and I work on all these cases together. You know, uh, in fairness to <HT01's Lawyer's Middle Name>, I just wish that you could give us some time to get <HT01's Lawyer's Middle Name> here so that he can talk to you. I know that right now you may not think that there's anything to be discussed, but <HT01's Lawyer's Middle Name> may have some insight or some information that would be very helpful to you at this time.  ",1,,,,,,,,reason,1,0
+"0392 HT01: This is, uh, a whole new case in itself. . . . desperation I guess you could call it.",,,,,,,,,,0,0
+"0393 ON81: Uh, well, I could certainly understand your frustrations, and I could certainly understand everything that you've been going through. I could certainly understand everything that's happened so far today. We've had only, uh, really sporatic coverage, but it's been some news coverage. It's just some tidbits of information that have come out, and a lot of it's just been real  speculation, and, uh, I'm not sure I really understand all of this.  While we've got some time, do you mind just explaining to me exactly where the flight took off this morning and things like that.  ",,,,,,,,,,0,0
+"0394 HT01: It took, it took off from Grand Island.",,,,,,,,,,0,0
+"0395 ON81: Could you repeat that last, uh, statement, <HT01 First Name>. I had some trouble hearing it. They're, you know, they're still directing some of these other planes in and out, and, uh, things really are going pretty much as normal here. Uh, I, I couldn't hear what you said about where the point of, uh, departure . . . (tape cut off)  ",,,,,,,,,,0,0
+"0396 PN60: No, <HT01 First Name>, you gotta consider your parents, your brothers, and, uh, the people that, uh, love you and have faith in you, and, uh, they're thinking about you, and, and they're worried about you, and they want to see you, you, everything turn out well, and, uh, you owe something to them, too, don't you?",1,,,,,,,,reason,1,0
+0397 HT01: It's a long story.,,,,,,,,,,0,0
+"0398 PN60: It may be a long story, and, and there may be some misgivings, but you owe them, uh, something. They've, they've tried, uh, and, the best they could, and, and worked, and sometimes maybe it wasn't the  right thing they did, but, uh, they tried, and you can't stop trying to, to, uh, help the people you love. (pause) If you want to see <Prisoner Middle Name>, uh, just put the gun down and come on out, and we'll take you to see <Prisoner's Middle Name>, no problem. (pause) <HT01 First Name>, did you read me  on that? I said that, uh, if you just put your gun down and come on out, we'll take you to see <Prisoner Middle Name>, and, uh, you have my word on  that, that nobody's interested in, in, uh, uh, harming you or anybody else. We'll be glad to resolve the matter in that way. (pause) Ground control to <HT01 First Name>. (pause) Ground control to <HT01 First Name>.  I, 101, are you trying to raise ground control? We're having some difficulty reading? (pause) 101, if you can read, we're having some radio difficulty here. We'll be with you in just a second.  (pause) 101, uh, somebody's got us blocked out here on traffic.  Uh, I don't know whether you can read us or not. If not, we're  trying to remedy the situation. We'll be back with you just as soon as we get it remedied. (pause) 101, could you check your  <HT01 First Name> to see that it's not stuck? Stand by, 101. We're checking equipment downstairs.  (pause)  ",,,1,,,,,,put the gun down and come outside,1,1
+"0399 ON80: 101, come up on 12605 if you can read. Come up on 12605. (pause) Ground control to 101.",,,,,,,,,,0,0
+"0400 CH31: Okay, we have you on 12605 now.",,,,,,,,,,0,0
+"0401 ON80: 10-4. Apparently, somebody had a <HT01 First Name> stuck or else somebody had us jammed up pretty well. Is <HT01 First Name> there? ",,,,,,,,,,0,0
+0402 CH31: He's sitting in the back.  ,,,,,,,,,,0,0
+0403 PN60: Tell <HT01 First Name> to come on up. I need to talk to him. Okay? ,,,,,,,,,,0,0
+0404 CH31: Who's this?  ,,,,,,,,,,0,0
+0405 PN60: This is <PN60>. ,,,,,,,,,,0,0
+0406 CH31: [ ]  ,,,,,,,,,,0,0
+0407 PN60: This is <PN60 First Name>.  ,,,,,,,,,,0,0
+"0408 CH31: Okay, <PN60 First Name>. (pause) Okay, he can't, uh, he can't hear now. He's in the back. Anything we can do?",,,,,,,,,,0,0
+"0409 PN60: Uh, I want to know if <HT01 First Name>, uh, got the message from his defense attorney.",,,,,,,,,,0,0
+"0410 CH31: Yes, he did.",,,,,,,,,,0,0
+"0411 PN60: Uh, did he understand that, uh, we're doing everything possible  that we can?",,,,,,,,,,0,0
+"0412 CH31: Yes, he did. I think he's considering it. I hope he's considering it.",,,,,,,,,,0,0
+"0413 PN60: Uh, ask him, uh, if he will give us, uh, additional time. (radio cutting out)  ",,,1,,,,,,more time,1,1
+0414 CH31: He'd like to talk to you now. ,,,,,,,,,,0,0
+"0415 PN60: You there, <HT01 First Name>?",,,,,,,,,,0,0
+"0416 HT01: Yes, sir.",,,,,,,,,,0,0
+"0417 PN60: <HT01 First Name>, as you can see, we're not, uh, trying to beat around the bush. We've, we've given it to you straight. Even your defense attorney gives it to you straight. And before we were cut off, I offered you the, the, if you wanted to see <Prisoner Last Name>, that, uh, just lay down your gun and walk out of the plane, and, uh, we'll be glad  to take you to <Prisoner Last Name>.  ",2,,1,,,,,,other: reasons; commitment: give up,1,1
+0418 HT01: [ ]  ,,,,,,,,,,0,0
+"0419 PN60: Uh, but, uh, right now, uh, they're working on it, and, uh, we'd like a little additional time. . . . uh, the priest at it, the chaplin at it, the county jail, uh, also is concerned about you.  He called. I didn't catch his name, and he wants to help. Uh,  your parents want to help. <NAME> wants to help. Your defense  attorney wants to help. Everybody wants to help you, <HT01 First Name>. Uh, take advantage of that. It's, it's, the only way out is to listen to what they have to say and work with them. They can show you the light, right way to go.",1,,,,,,,,reason,1,0
+"0420 HT01: . . . only people that can help is the people who are making the, the decisions on the demands.",,,,,,,,,,0,0
+0421 PN60: Are you gonna give us some additional time? ,,,1,,,,,,more time,1,1
+0422 HT01: . . . give you the benefit of the doubt.  ,,,,,,,,,,0,0
+"0423 PN60: Your mother and father are here now. Do you want to talk to either one of 'em? (pause) You read me, <HT01 First Name>? (pause) Uh, <HT01 First Name>, you gonna talk to your father?  ",,,,,,,,,,0,0
+0424 HT01: [ ] ,,,,,,,,,,0,0
+0425 PN60: 10-4. (pause) [ ] when I can talk with him. (pause)  . . . to 101.,,,,,,,,,,0,0
+0426 CH31: Go ahead.  ,,,,,,,,,,0,0
+"0427 PN60: Uh, we got a helicoptor coming in with, uh, lead defense counsel, <HT01's Lawyer>. He should land in a few minutes. Uh, we're not just sure where he's going to land, but the helicoptor will be  <HT01's Lawyer's First Name> <HT01's Lawyer's Middle Name>, so tell <HT01 First Name> not to get upset at it.",,,,,,,,,,0,0
+"0428 CH31: Do you have any idea where it, the helicoptor, will land?",,,,,,,,,,0,0
+"0429 PN60: Uh, we're gonna try to bring it in to, close to control tower here, uh, where we can get, uh, <HT01's Lawyer's Middle Name> into the control tower in a few seconds, but it may land over there, depending upon whether we what the traffic patterns are at the time. ",,,,,,,,,,0,0
+0430 CH31: Okay.  ,,,,,,,,,,0,0
+0431 PN60: Is <HT01 First Name> there now? ,,,,,,,,,,0,0
+0432 CH31: Negative.  ,,,,,,,,,,0,0
+"0433 PN60: When he gets back, uh, where he can hear, uh, ask him to talk with us. We need to, his lawyer wants to talk with him again.",,,,,,,,,,0,0
+"0434 CH31: Okay, when he comes up, we'll, we'll, we'll let you know.",,,,,,,,,,0,0
+0435 UNKN: Maybe it's 'cause I'm chewing gum.  ,,,,,,,,,,0,0
+"0436 PN60: <HT01 First Name>, this is <PN60 First Name> again. Are you there?",,,,,,,,,,0,0
+"0437 HT01: Yes, sir. ",,,,,,,,,,0,0
+"0438 PN60: Okay, <HT01's Lawyer's First Name> <HT01's Lawyer's Middle Name>'s on the elevator on his way up now, and, uh, . . . give you straight advice. I know  <HT01's Lawyer's  Name>'s a reputable man. He'll do what's best for you and look out for your interests, and you can have confidence in him. . . . passengers all right there now?  ",1,,,,,,,,reasons,1,0
+0439 HT01: Everyone is . . .  ,,,,,,,,,,0,0
+"0440 ON82: Ground control, <HT01's Lawyer's Middle Name> <HT01's Lawyer's Last Name>. <HT01 First Name>, come in.",,,,,,,,,,0,0
+"0441 HT01: Yes, sir. ",,,,,,,,,,0,0
+"0442 ON82: <HT01 First Name>, this is <HT01's Lawyer's Middle Name>. I've been in Washington all day. I just got in. Just got to the airport. Need to talk to you. What's the problem, buddy?",,,,,,,,,,0,0
+"0443 HT01: Well, sir, there's not a problem yet. Uh, the only problem that's going to occur is if, uh, people don't meet the demands that I've set forth.",,,,,,,,,,0,0
+"0444 ON82: <HT01 First Name>, this is <HT01's Lawyer's Middle Name>. I've talked to <ON81> just briefly, and I don't know entirely what the situation is. Give it to me again so I'll know from the start. Okay?  ",,,,,,,,,,0,0
+"0445 HT01: I just set forth some demands that, uh, the people have there, and, uh, (pause) got on the plane and (radio cut out) went to Kansas City and came here. Uh, they should have those demands there in front of you somewhere.  ",,,,,,,,,,0,0
+"0446 ON82: Well, they probably do, but there, uh, there are people here, and I wanna hear it from you. Come on, level with me. What do you need? Okay?  ",,,,,,,,,,0,0
+0447 HT01: Need an honorable way out.  ,,,,,,,,,,0,0
+0448 ON82: Say it again. I didn't read you. ,,,,,,,,,,0,0
+0449 HT01: I need an honorable way out.  ,,,,,,,,,,0,0
+"0450 ON82: [ ] honorable way, <HT01 First Name>. We're not dealing with a, we're dealing with innocent people. That's not the honorable way. Uh, you and I have got to figure an honorable way out. Tell me what you mean by honorable way out.",,,,1,,,,,you want honor and this is not the way,1,1
+"0451 HT01: There is no such thing as innocent people. Babies are innocent, but, uh, as far as, uh, the rest of the people are concerned,",,,,,,,,,,0,0
+"0452 ON82: Okay, <HT01 First Name>, how 'bout this. I understand there's a stewardess on  board that has a very young daughter, a baby, who's very concerned about her mother's safety. What about her? What can we do for her?",1,,,,,,,,reason,1,0
+"0453 HT01: Well, when they meet the demands, she's free to go.",,,,,,,,,,0,0
+"0454 ON82: <HT01 First Name>, I don't know what the demands are. Tell me again. I don't, I don't wanna listen to these people. I want you to tell me. <HT01 First Name>, I don't know these people over here. I know you. I'm your attorney. I wanna help you. Tell me what we need to do.",1,,,,,,,,close relationship,1,0
+"0455 HT01: I want <Prisoner Middle Name> <Prisoner Last Name> out of jail (pause) and him to come to this plane, and as soon as he gets to this plane and I can talk to him, then the stewardess can leave. I want $3,000,000.00, and I want two machine guns and two 45 caliber pistols . . . ammunition. ",,,,,,,,,,0,0
+"0456 ON82: I don't know anything about your plane, what kind of, uh, fuel capacity you have, or where you want to go or anything else, but that's it at the moment, right? You want to, you want to talk to <Prisoner Last Name>? Do you want <Prisoner Last Name> to go with you?  ",,,,,,,,,,0,0
+0457 HTO1: That's up to him. I want to see him and talk with him.  ,,,,,,,,,,0,0
+"0458 ON82: If I talk to <Prisoner Last Name>, would you believe me whatever he says he wants to do?",,,,,,,,,,0,0
+"0459 HT01: I need to see him, sir.",,,,,,,,,,0,0
+"0460 ON82: Okay. Let me talk to these people here and get, get a rundown on what's happening. I just walked in. I don't wanna [ ] ask you to, please, have enough confidence in me not to do anything until you and I can talk about it. Okay? ",,,1,,,,,,give me some time,1,1
+"0461 HTO1: Time is running out, sir. ",,,,,,1,,,deadline,1,1
+"0462 ON82: Okay, <HT01 First Name>, come on. I, I haven't run out on you. You don't run out on me. Okay?",,1,,,,,,,favor repayment,1,1
+0463 HTO1: . . . different situation.  ,,,,,,,,,,0,0
+"0464 ON82: It's not different when men do what men [ ]. You gotta understand that. I'm not only your attorney, I'm your friend. I wanna help you. Now give me some time to find out what's going on.  I'll get back to you. Okay?  ",,,,,1,,,,friend,1,1
+"0465 HTO1: Sir, the best way you can help me is to tell the people that I'm serious and, uh, (pause) I guess that's about it.",,,,,,,,,,0,0
+"0466 ON82: Okay. Stand by 'til you hear from me. Okay, <HT01 First Name>? Do it for me. (pause)  ",,,1,,,,,,wait for me,1,1
+"0467 CH31: <HT01 First Name>, would like to know how you're coming along. This is the captain.",,,,,,,,,,0,0
+"0468 ON82: <HT01 First Name>, this is <HT01's Lawyer's Middle Name>. I was just fixin' to call you.",,,,,,,,,,0,0
+0469 CH31: Here he is. Just a moment.  ,,,,,,,,,,0,0
+"0470 HT01: Yes, sir.",,,,,,,,,,0,0
+"0471 ON82: <HT01 First Name>, <HT01's Lawyer's Middle Name>. How you doing? (pause) <HT01 First Name>, you okay?",,,,,,,,,,0,0
+0472 HT01: 10-4. (radio cutting out)  ,,,,,,,,,,0,0
+0473 CH30: [ ] hear us on 12605.  ,,,,,,,,,,0,0
+"0474 ON82: I wanna make sure I'm talking to <HT01 First Name>, not some pilot. <HT01 First Name>, come on.",,,,,,,,,,0,0
+"0475 HTO1: Yes, sir. Go ahead.",,,,,,,,,,0,0
+"0476 ON82: Okay, <HT01 First Name>, I recognize your voice. Look, <ON81>'s been working with these fuckin' feds. They move like bur-, bureaucrats move.  I've kicked some asses. We're trying to get to <Prisoner Last Name> out here. You, you realize what sort of thing this is. You know, it's nationwide now. Everybody knows about it. It's, we gotta, we gotta go to the AG. That's the attorney general in Washington, but I'm kicking asses so stand by. Okay?   ",,,,,,,1,,AG,1,1
+0477 HT01: . . . trying.  ,,,,,,,,,,0,0
+"0478 ON82: Okay, <HT01 First Name>, now one thing they need, and I think this is reasonable. It, you, you tell me if you don't think so. If I can get <Prisoner Last Name> out here, I need a show of good faith that you're, that we're dealing as man to man. Release the two women. Keep the men and the pilots but release the two women so I've got something to bargain with. I can't just tell these guys to shove it. I gotta have something to bargain with. ",1,,,,,,,,reason,1,0
+0479 HT01: . . . got it.  ,,,,,,,,,,0,0
+0480 ON82: Okay. Let the two stewardesses go. I'll kick their ass 'til we get <Prisoner Last Name> out here. Okay? Hang in there with me. Okay? Let me get some instructions on how to handle it.  ,,,1,,,,,,let the stewardesses go,1,1
+"0481 HT01: I'll let the stew-, stewardesses go as soon as <Prisoner Last Name> comes.",,,1,,,,,,"no, here is the deal",1,1
+"0482 ON82: <HT01 First Name>, we gotta have a show of good faith on your part first. I, I'm raising hell to get him out to you. They're trying to raise the attorney general in Washington. Let the girls go. You got the men left. That's honorable. We talked about children awhile ago. The girl's got a four-year-old daughter. She's a widow. There's nobody else but her. Let her off, and I'll kick ass 'til I get something done. Okay?  ",2,,,1,,,,,other: reasons; consitency: this is honorable (which is what you want),1,1
+"0483 HT01: [ ] I'll have to stay with what I started with, and that is, uh, to . . . It's very simple as far as I can see it. It, and when, I'll trade <Prisoner Last Name> for the women.",,,,1,,,,,remember the original deal,1,1
+"0484 ON82: <HT01 First Name>, you still got 13 people out there. We gotta have a, a show of good faith so they'll trust me so I can bargain with them. I'm,  I'm your representative. I'm you over here, not on the plane. I'm representing you. I've got, you talk about honor. We've got to do it honorably. They've got to know that they can deal with me honorably and that I, I have enough [ ] and you have enough confidence in me that we're gonna be able to do what we say we do, and the first step is to let the women go. Then you still got the men. You still got. all the bargaining power you need.  ",1,,,2,,,,,other: reasons; consitency: this is honorable (which is what you want),1,1
+"0485 HT01: You have my word that as soon as <Prisoner Name> comes here that the women will, will be able, will be set free.",,,,1,,,,,remember the original deal,1,1
+"0486 ON82: <HT01 First Name>, <ON81> talked to you on the phone, explained about our conversation with, uh, <Prisoner's Middle Name>, right? You, you know what's, what's,  what's coming down.  ",,,,,,,,,,0,0
+"0487 HT01: Pardon me, sir?",,,,,,,,,,0,0
+"0488 ON82: You understood what was coming down on the plea on that other thing, right? (pause) The bank robbery case.",,,,,,,,,,0,0
+"0489 HT01: No, I didn't understand that.",,,,,,,,,,0,0
+"0490 ON82: All right, didn't you understand that we had talked to <Prisoner's Middle Name>, gone over all the evidence with him, photographs, statements, [losses] tag, marked money, red dye, the whole smear, the whole nine yards, and that <Prisoner's Middle Name> had agreed that the only reasonable alternative was try to cut our losses, minimize the time, go ahead and, and enter a plea, and, uh, get some police on this ivestigation, get, get your parents in here to talk to the judge, things of that sort, cut our losses. That's the honorable thing to do, <HT01 First Name>. (pause) <Prisoner's Middle Name> has agreed to that. How do you feel about it? (radio cutting out) Yes.  ",,,,1,,,,,honorable thing to do,1,1
+0491 HT01: This is a different situation now.  ,,,,,,,,,,0,0
+"0492 ON82: I know it's escalated. It really is escalated, <HT01 First Name>. That's why  we've gotta have a show of faith to get something started. We had something working on the other charges. That's beside the point now. Forget about that. We've got people out there, and,  and <Prisoner's Middle Name> has gotta make his own decision. We've got to get him out here. <ON81> and I have got to talk to him. (pause) I've got to  have something to bargain with, <HT01 First Name>. Let me have the two women.  Let 'em, you don't need 'em. Let 'em go. That's honorable. Then I got something to bargain with to get <Prisoner Last Name> out here. Come back to me.  ",2,,,1,,,,,other: reasons; consitency: this is honorable (which is what you want),1,1
+"0493 HT01: [ ] an honorable man here. You have my word, uh, to, as soon as <Prisoner's Middle Name> sh-, as soon as I see him, (pause) then I'll, I'll trade <Prisoner's Middle Name> for the two women.",,,,1,,,,,remember the original deal,1,1
+"0494 ON82: <HT01 First Name>, I can believe that, but these people don't know you. They don't know you at all. They've never seen you before. I know you're, you're an honorable man and that your word's good, but they don't, and they're telling me if I'm gonna be your representative, I've got to have some show of good faith from you. Have that much confidence in me, <HT01 First Name>, to let the women go. Keep the men. We'll  get <Prisoner Last Name> out here and talk some more. Think about it. (pause) Tell me what you think now.  ",2,,,,1,,,,other: reasons; liking: you are an honorable man,1,1
+0495 HT01: . . . confidence in you is just uh the [ ] . . lose my bargaining power.  ,,,,,,,,,,0,0
+"0496 ON82: You don't lose your bargaining power by letting two people out of 13 go. You still got the men there, the captain, and the co-pilot.  Nobody's gonna sacrifice them. I'm just asking for a show of good faith by letting the women go. Then I've got something to raise hell about over here. I've got something to prove you're an honorable man, other than just my word for it. (big pause)  ",2,,,,1,,,,other: reasons; liking: you are an honorable man,1,1
+"0497 ON82: [ ] Talk to me, <HT01 First Name>.",,,,,,,,,,0,0
+"0498 HT01: I'm listening, and, uh, I'm thinking it over.",,,,,,,,,,0,0
+"0499 ON82: Okay, take your time. Come back to me when you're ready. (pause)  ",,,,,,,,,,0,0
+0500 HT01: Sir? ,,,,,,,,,,0,0
+"0501 ON82: Yes, <HT01 First Name>.",,,,,,,,,,0,0
+"0502 HT01: All right, I'll let the women go.",,,,,,,,,,0,0
+0503 ON82: Say it again. I didn't hear you. ,,,,,,,,,,0,0
+0504 HT01: I'll let the women go.  ,,,,,,,,,,0,0
+"0505 ON82: You're a good man, <HT01 First Name>. It gives me something to deal with. Hold on a minute and let me, let me see how we wanna arrange it. Okay? Stand by. ",,,,,1,,,,compliment,1,1
+0506 HT01: . . . I have no alternative but to stick with what I started with [ ],,,,,,,,,,0,0
+"0507 ON82: I understand you set a deadline, <HT01 First Name>, but remember, see, I was in Washington in the Department of Justice with another client, and I flew into the [ ] Airport. They picked me up with helicoptor and brought me over here. So I got here just as quickly as I could. I've got to have some time to get a grasp of this thing. Let these people who, know who I am, let 'em know I've got some balls, and I'm dealing for you. You've got to help me by giving me a show of good faith so they'll deal with me. Let us have the women. Let me call you back in just a minute to, to  [ ]. They'll be no sweat. Nobody's gonna make a move I'm sure of that. (radio cutting out) (pause) . . . on this frequency. (pause)  ",1,,,,,,,,reason,1,0
+"0508 CH30: Okay, hadn't talked to you for awhile. We just thought maybe you  couldn't hear us. (pause)  ",,,,,,,,,,0,0
+0509 ON82: Ground control to 101.  (radio cutting out)  ,,,,,,,,,,0,0
+"0510 ON82: Uh, let me speak to <HT01 First Name> about <Prisoner Last Name>.",,,,,,,,,,0,0
+0511 HTO1: Go ahead.  ,,,,,,,,,,0,0
+"0512 ON82: <HT01 First Name>, this is <HT01's Lawyer's Middle Name>. You read me? ",,,,,,,,,,0,0
+0513 HTO1: Just heard you.  ,,,,,,,,,,0,0
+"0514 ON82: <HT01 First Name>, I think you're making some progress with getting <Prisoner's Middle Name> out. I don't have him on bond yet, but I have them bringing him here to the airport so I can talk with him, and then you can talk with him. (pause) Do you understand? (pause) <HT01 First Name>, this is <HT01's Lawyer's Middle Name>. Come in.  ",,,,,,,,,,0,0
+0515 HTO1: Go ahead.  ,,,,,,,,,,0,0
+0516 ON82: I haven't had a chance to talk to <Prisoner's Middle Name> yet. I finally got them to bring him here to the airport. He's almost here. I want to go down and talk with <Prisoner's Middle Name> and tell him what the situation is. Then I'll get back to you. Okay?  ,,,,,,,,,,0,0
+0517 HT01: Okay.  ,,,,,,,,,,0,0
+"0518 ON82: It should be about 10, 15 minutes. Stand by. St-stay with me, okay, buddy?",,,,,,,,,,0,0
+0519 HTO1: [ ]  ,,,,,,,,,,0,0
+0520 ON82: Ground control to 101. ,,,,,,,,,,0,0
+0521 HTO1: Go ahead.  ,,,,,,,,,,0,0
+0522 ON82: Let me speak to <HT01 First Name>. ,,,,,,,,,,0,0
+0523 HTO1: [ ]  ,,,,,,,,,,0,0
+"0524 ON82: <HT01 First Name>, this is <HT01's Lawyer's Middle Name>. You doing okay?",,,,,,,,,,0,0
+0525 HTO1: Just fine.  ,,,,,,,,,,0,0
+"0526 ON82: Okay, I have <Prisoner's Middle Name> here. He wants to talk to you. Okay?",,,,,,,,,,0,0
+0527 HTO1: Go ahead.  ,,,,,,,,,,0,0
+"0528 ON83: Hello, <HT01's First Name>. How are you doing?",,,,,,,,,,0,0
+0529 HT01: How are you?  ,,,,,,,,,,0,0
+"0530 ON83: Uh, <HT01's First Name>.",,,,,,,,,,0,0
+"0531 HTO1: Yeah, I'm fine. How are you?",,,,,,,,,,0,0
+"0532 ON83: [ ] I'd like to congratulate you on your, uh, inspiring, uh, feat. It's, it's very impressive, and it takes a lot of nerve to do that. (radio cutting out)  ",,,,,1,,,,compliment,1,1
+"0533 HTO1: What is happening with this bond and, uh, all that?",,,,,,,,,,0,0
+"0534 ON83: I talked to, uh, Mr. <HT01's Lawyer's Last Name> and <Other Lawyer>, and both of them assure  me that, uh, . . . guy at, at some private, uh, benefactor is gonna post bond in any amount, and he said this would be the only alternative . . . our escape is from this airport in one  piece, and, uh, (pause) uh, release, release the, uh, passengers. <HT01's Lawyer's Last Name>'s gonna come on board to escort you to the car, and, uh,otherwise, uh, they're not gonna give any demands. They're not gonna give the money, or they're not gonna let me go, and it would just be, uh, it'll be like on [ ] so to speak. Uh, the only way to get out would be for you to come off. Uh, don't come, <HT01's Lawyer's Last Name> did not come to shoot you or anything. I talked to, uh, <HT01's Lawyer's Last Name> and <Other Lawyer>, and  here are a couple of agents over here. They're gonna come down with <HT01's Lawyer's Last Name>. Uh, just <HT01's Lawyer's Last Name> and one agent is gonna come down, and he's gonna take you straight over to, uh, <Judge Last Name>'s office. They're gonna put you in jail. Uh, take you to the judge first.  ",,,,,,,,,,0,0
+0535 HTO1: . . . sound too good.  ,,,,,,,,,,0,0
+"0536 ON83: Well, uh, not, i-i-i-it's not what you wanted. Uh, thank you. I appreciate it, and it's very, very impressive. It's loyal, and, uh, I'm sure that you probably made people like [ ] roll over in their graves if they're listening, but you've accomplished what you can accomplish as a man at this point. The rest, man, you can, you can serve yourself better. Think of yourself. You can get, uh, you know, uh, . . . Nothing's gonna happen to you. Uh, well, <HT01's Lawyer's Last Name> assures me that . . . (pause) I'm not gonna tell you what to do. Uh, but I've been with these people all day, and you know I don't trust, uh, I don't trust policemen [ ] any more than you do now, but, uh, I'm pretty sure that, uh, you know, I, I'm almost certain that, well, with <HT01's Lawyer's Last Name> coming on  board, he's offered to substitute himself, uh, for the passengers. You know, and I don't think that he wants to commit suicide or anything like that, so go ahead and, uh, surrender. There's nothing else to do, man. It's just gonna be, uh, a bloody thing. ",,,,,1,,,,compliments,1,1
+"0537 ON82: <HT01 First Name>, this is <HT01's Lawyer's Middle Name>. Come back.",,,,,,,,,,0,0
+0538 HTO1: Hello.  ,,,,,,,,,,0,0
+"0539 ON82: <Prisoner's Middle Name>'s a little nervous, as you can tell, but what he's telling you is straight. There's really nothing we can do on the airport.  We've got to do it in court. I'm gonna be with you. I'll come out to the plane. I've got their solemn promise, and I, there's an  agent here that I've known personally for 15 years. . . . wouldn't lie to me. . . . not gonna be any funny business. They'll let me come on the plane with you after you release the people, and I'll have one agent with me in the car, and I've got Judge <Judge Last Name> standing by. He's the judge that lowered your bond, and they're gonna take us directly to the courthouse before Judge <Judge Last Name>, and I'm convinced, and I wouldn't tell you this if I wasn't. They've done everything I've asked them to do so far. I'm convinced there's not gonna be anything, but let's go in, and let's fight our court battle. We can't fight it at the airport, but we can fight it in court. You've made your point. <Prisoner's Middle Name> very much appreciates it. Now's the time to, to put this aside and go on in, see Judge <Judge Last Name>, do the best we can do, try to get <Prisoner's Middle Name> out on bond for at least awhile anyway before, while they're doing the police investigation. [ ] and do what we have to do. How do you feel about that?  ",1,,,,,,,,reason,1,0
+"0540 ON83: <HT01's First Name>, uh, there's one bad thing about this situation, uh, based on my conversation with <HT01's Lawyer's Last Name> and <Other Lawyer> You haven't, uh, count your demands in any political etiology or anything. The only place we could go would be out of this country, fly to say Cuba, and I don't think counselor would let us in there. Uh, see, the thing is is those countries would be embarassed by [ ] Uh, well, it, it, just, based on my viewpoint, you know, to whatever it means, it doesn't look good. If it did, I would come down there with you and (radio cut out)  ",,,,,,,,,,0,0
+"0541 ON82: <HT01 First Name>, this is <HT01's Lawyer's Middle Name>. What do you think? We're not hurrying you for the decision, but <Prisoner's Middle Name> and I think that we can help you, that  you're going down the, a deadend alley now, and it's not worth it, so let me try to help you, and you, you've already helped <Prisoner's Middle Name> all you can. Let me try to help you now.  ",1,,,,,,,,reason,1,0
+"0542 ON83: <HT01's First Name>, don't commit suicide or anything like that. Go ahead and just, uh, surrender. don't, don't take off or anything like that.  Uh, I can, I can, you know, do a stretch . . . something like that, and maybe a little space between our, ourselves and reality might make us, you know, a little better, but, uh, but, uh, this, this is just futile. You know, there's nowhere to go, and according to, uh, my knowledge of this plane, it can only go back as far as, uh, . . . Island or in the opposite direction we're gonna have to stop  again, and on down the road, [ ] or  something like that. I'm saying that it's not logical to do this [ ] or anything like that. It was feasible, you  know, well, I can say you have, you have my sympathies. I admire  what you do. It's very, very manly, very impressive, and I appreciate your . . . and your loyalty, loyalty to me. Right now, your life means more than just throwing it away. It doesn't serve any purpose just to, you know, just to waste yourself like that.  You need a purpose, and this is just, it, it's futile. (pause) You're not obligated to me or anything like that. Just think about yourself from here on in.  ",1,,,,,,,,reason,1,0
+0543 HT01: That does make some sense.  ,,,,,,,,,,0,0
+"0544 ON83: Okay. Uh, everybody around here is breathing a sigh of relief, so I, I don't, I've looked at some of their faces, and they don't look like they're gonna shoot you or anything like that. . . . have confidence, and, uh, <HT01's Lawyer's Last Name>, <HT01's Lawyer's Last Name>'s all right. <Other Lawyer>,  he's, he's okay. Most of these guys around here seem to be kind of honest, and <HT01's Lawyer's Last Name>'s coming down, and he, he, uh, he, I don't think he's gonna do anything. See, once you get out of it, man, we can talk, you know, you'll have time to look things over, and this, this is, you know, uh, uh, just get out of it, man. It's, it's not worth it, you know. don't, don't waste yourself for me or for anybody else. Let the passengers go.  ",1,,,,,,,,reason,1,0
+"0545 ON82: <HT01 First Name>, this is <HT01's Lawyer's Middle Name>. Okay?",,,,,,,,,,0,0
+0546 HT01: . . .listening.  ,,,,,,,,,,0,0
+"0547 ON82: Okay. Um, <Prisoner's Middle Name> and I agree this is the only way, and I give you my word. I'm gonna do everything I can to help you, and I am personally convinced, and I've been in this profession a long time, that there's not gonna be any violence. I want you to tell me how you wanna handle the passengers leaving the plane so that I can come to you. I want you and I to walk out as two men, as a team,  go into court together. That's the honorable way to do it. <HT01 First Name>, this is <HT01's Lawyer's Middle Name> again. I don't know what the situation is on the plane so you tell me how you want to go about releasing the  passengers and where you want me to come to. <HT01 First Name>, this is <HT01's Lawyer's Middle Name>. You may be thinking. I just wanna make sure you can hear me and  understand what I'm saying. Give me just a response that you understand my message.  ",,,3,2,,,,1,commitment: give up; consistency: it's honorable: social proof: I've been a lawyer a long time and this is the thing to do,1,1
+"0548 HT01: Yes, I understand.",,,,,,,,,,0,0
+"0549 ON82: Okay. Let me know when you're ready to tell me how you wanna release the passengers. I can get these fellas to do it any way you say. (pause) <HT01 First Name>, this is <HT01's Lawyer's Middle Name>. You read me?",,,,,,,,,,0,0
+"0550 HT01: Yes, I read you.",,,,,,,,,,0,0
+"0551 ON82: In thinking about it, uh, I don't know how many passengers are on board, [ ], but what about the one FBI agent that I've known for a long time and I have complete confidence in? His name  is <PN60>. He and I can come to the front of the plane so you can see us. Nobody but the two of us. He'll stay in the car. I will come and try to get the door open and the ladder down. You  come down, and you and I will walk to the car, and I will ride with  you to the courthouse. How 'bout that?  ",1,,,,,,,,I know this agent; trust me he's ok,1,0
+0552 HT01: [ ],,,,,,,,,,0,0
+"0553 ON82: Okay, <HT01 First Name>, <PN60> and I are gonna get in a car. We'll drive around to the front of the plane. You can watch for us. I'm wearing a blue, you'll recognize me. I'm wearing a light blue suit. <PN60 Last Name> will stay at the car. I'll walk up and try to get the door open. You, you watch me so you can help me get the door open. If I need some help, <PN60> will come help me get the door open. You'll seize me, and you'll know that everything's secure, and I'm gonna be right there at your side all the way to Judge <Judge Last Name>'s chambers and all the way wherever we go from there. Okay, buddy?",,,,,1,,,,buddy,1,1
+0554 HT01: [ ],,,,,,,,,,0,0
+"0555 ON82: All right, we're on the way. We're probably 10, 15 minutes away. So you stand by and take it easy. Okay? (pause) <HT01 First Name>, did you read me about ten minutes it'll take me to get out there.  Acknowledge that for me, please.",,,,,,,,,,0,0
+0556 HT01: Acknowledged.,,,,,,,,,,0,0
+"0557 ON82: Okay, buddy, stand by. I'm on my way.",,,,,1,,,,buddy,1,1
+,,,,,,,,,,,
+DONE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

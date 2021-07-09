@@ -1,0 +1,2 @@
+model_checkpoint_path: "model4_roller_windows.ckpt"
+all_model_checkpoint_paths: "model4_roller_windows.ckpt"
